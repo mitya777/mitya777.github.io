@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: minimal/post
 title: "I want to say something..."
 description: ""
-category: ""
+category: "Misc"
 tags: []
 ---
-{% include JB/setup %}
 
 Let's begin.
