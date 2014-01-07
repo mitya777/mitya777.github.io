@@ -10,6 +10,7 @@ Understanding javascript closures has become a right of passage for javascript d
 
 ```javascript
     var x = 0;
+
     function showNum() {
         alert(x);
     }
