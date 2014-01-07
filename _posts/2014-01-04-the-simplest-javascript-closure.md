@@ -6,7 +6,7 @@ category: "Misc"
 tags: []
 ---
 
-Understanding javascript closures has become a right of passage for javascript developers. And so I embark.
+Understanding javascript closures has become a right of passage for javascript developers. And so I embark on this rite:
 
 ```javascript
     var x = 0;
