@@ -6,30 +6,67 @@ category: "Misc"
 tags: []
 ---
 
-Understanding javascript closures has become a right of passage for javascript developers. And so I embark on this rite:
+I think every front-end engineer job-description I've ever read asked applicants to proclaim their intimate acquaintance with closures.
+Understanding closures seems to be a rite of passage for javascript engineers. And so we embark:
 
-A closure is when a function keeps a reference to the scope in which that function was defined.
+A closure is just a javascript function's 'ability' to know about the scope in which it was defined, and to be able to access the data, ie. variables in that scope.
 
-This is useful so that when this function is executed, it can access variables declared outside itself.
+This is useful because when this function is executed in the future, often in a different scope as a callback, it will still be able to access variables declared in its 'parent' scope.
+
+A javascript function is like a pigeon. It always knows where home is.
 
 Example:
 
 ```javascript
     // outer scope
-    var x = 1;
+    var home = 'Moscow';
 
-    function funcShowNum() {
+    function whereIsHome() {
         // inner scope
-        alert(x);
+        alert(home);
     }
 
-    funcShowNum();    // alerts 1
+    whereIsHome();    // alerts 1
 ```
-Why will this work? How can funcShowNum alert the value of x even though x is not in funcShowNum's scope, ie. not defined inside funcShowNum.
+Why will this work? How can `whereIsHome` alert the value of `home` even though `home` is not in `whereIsHome`'s scope, ie. not defined inside `whereIsHome`.
 
-The reason is because when any function is defined in javascript it holds on to all the data available in its outer scope. This is referred to as a closure.
-Since 'var x' is defined in this 'outer' scope `funcShowNum` is able to access it.
+The reason is because when any function is defined in javascript it keeps a reference to the data available in its outer scope. This is referred to as a closure.
+Since 'var home' is defined in this 'outer scope' `whereIsHome` is able to access it through its closure no matter where or when it is called.
+
+When `whereIsHome` is finally executed it will alert the value of `home` at that particular moment in time.
+`home`'s value may have changed since `whereIsHome` was defined.
+
+Let's see how this can happen:
+
+```javascript
+    // outer scope
+    var home = 'Moscow'
+
+    function moveToBoston() {
+        home = 'Boston';
+    }
+
+    function whereIsHome() {
+        alert(home);
+    }
+
+    whereIsHome();  // alerts Moscow 
+    moveToBoston(); // changes the value of home!
+    whereIsHome();  // alerts Boston
+```
+
+Here we have two closures! When both functions were defined they kept a reference to the same 'outer scope'.
+
+Both these functions are 'sharing state' via the closures created when they were defined.
+
+You can do some really cool stuff with this effect.
+
+That's for later.
+
 
 To recap:
 A closure is the scope in which a function is defined, referenced by that function.
 Whenever this function is called at a future time it can access the data in this scope.
+This is useful because javascript functions can be passed as parameters and may find themselves being called in some strange places.
+
+But they never forget where they came from.
