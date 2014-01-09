@@ -9,7 +9,7 @@ tags: []
 I think every front-end engineer job-description I've ever read asked applicants to proclaim their intimate acquaintance with closures.
 Understanding closures seems to be a rite of passage for javascript engineers. And so we embark:
 
-A closure is just a javascript function's awareness of the scope in which it was defined, and the ability to access the data, ie. variables in that scope.
+<span style='color=rgb(189, 51, 51)'>A closure is just a javascript function's awareness of the scope in which it was defined, and the ability to access the data, ie. variables in that scope.</span>
 
 This is useful because when this function is executed in the future, often in a different scope as a callback, it will still be able to 'reach back' and access variables declared in its 'parent' scope.
 
@@ -57,7 +57,7 @@ Let's see how this can happen:
 
 Here we have two closures! When both functions were defined they kept a reference to the same 'outer scope'.
 
-Both these functions are 'sharing state' via the closures created when they were defined.
+Both these functions are sharing state via the closures created when they were defined.
 
 You can do some really cool stuff with this effect.
 
