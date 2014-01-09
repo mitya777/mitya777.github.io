@@ -8,31 +8,29 @@ tags: []
 
 Understanding javascript closures has become a right of passage for javascript developers. And so I embark on this rite:
 
-A function's closure is the scope which contains that function's definition.
+A closure is when a function keeps a reference to the scope in which that function was defined.
+This is useful so that when this function is executed, it can access variables and other functions declared outside itself.
+
+Example:
 
 ```javascript
     // outer scope
-    var x = 0;
+    var x = 1;
 
-    function showNum() {
+    function funcShowNum() {
         // inner scope
         alert(x);
     }
 
-    showNum();    // 0
+    funcShowNum();    // alerts 1
 ```
+Why will this work? How can funcShowNum alert the value of x even though x is not in funcShowNum's scope, ie. not defined inside funcShowNum.
 
-When `showNum` is defined it also gets a reference to the outer scope in which it was defined. Its parent scope.
-This scope which contains `showNum`'s definition also contains `x`. This is a closure.
+The reason is because when any function is defined in javascript it holds on to all the data available in its outer scope. This is referred to as a closure.
+Since 'var x' is defined in this 'outer' scope `funcShowNum` is able to access it.
 
-When `showNum` is called, it is asked to alert the value of `x`.
-But `x` is not defined anywhere inside `showNum`.
-
-`showNum` can still display the value of `x` because it holds a reference to the closure, ie. to it's defining scope.
-When it searches that 'closed-over' scope it finds `x` and can display it!
+Here's a sketch:
 
 To recap:
-A closure is the scope in which a function is defined.
-Whenever a function is called at a future time it can access the data in this scope.
-
-
+A closure is the scope in which a function is defined, referenced by that function.
+Whenever this function is called at a future time it can access the data in this scope.
