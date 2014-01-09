@@ -6,7 +6,7 @@ category: "Misc"
 tags: []
 ---
 
-I think every front-end engineer job-description I've ever read asked applicants to proclaim their intimate acquaintance with closures.
+I think every front-end developer job-description I've ever read asked applicants to proclaim their intimate acquaintance with closures.
 Understanding closures seems to be a rite of passage for javascript engineers. And so we embark:
 
 <span style='color:rgb(189, 51, 51);'>A closure is just a javascript function's awareness of the scope in which it was defined, and the ability to access the data, ie. variables in that scope.</span>
