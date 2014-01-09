@@ -9,9 +9,9 @@ tags: []
 I think every front-end engineer job-description I've ever read asked applicants to proclaim their intimate acquaintance with closures.
 Understanding closures seems to be a rite of passage for javascript engineers. And so we embark:
 
-A closure is just a javascript function's 'ability' to know about the scope in which it was defined, and to be able to access the data, ie. variables in that scope.
+A closure is just a javascript function's awareness of the scope in which it was defined, and the ability to access the data, ie. variables in that scope.
 
-This is useful because when this function is executed in the future, often in a different scope as a callback, it will still be able to access variables declared in its 'parent' scope.
+This is useful because when this function is executed in the future, often in a different scope as a callback, it will still be able to 'reach back' and access variables declared in its 'parent' scope.
 
 A javascript function is like a pigeon. It always knows where home is.
 
