@@ -29,8 +29,6 @@ Why will this work? How can funcShowNum alert the value of x even though x is no
 The reason is because when any function is defined in javascript it holds on to all the data available in its outer scope. This is referred to as a closure.
 Since 'var x' is defined in this 'outer' scope `funcShowNum` is able to access it.
 
-Here's a sketch:
-
 To recap:
 A closure is the scope in which a function is defined, referenced by that function.
 Whenever this function is called at a future time it can access the data in this scope.
