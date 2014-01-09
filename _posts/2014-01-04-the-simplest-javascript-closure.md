@@ -9,7 +9,8 @@ tags: []
 Understanding javascript closures has become a right of passage for javascript developers. And so I embark on this rite:
 
 A closure is when a function keeps a reference to the scope in which that function was defined.
-This is useful so that when this function is executed, it can access variables and other functions declared outside itself.
+
+This is useful so that when this function is executed, it can access variables declared outside itself.
 
 Example:
 
