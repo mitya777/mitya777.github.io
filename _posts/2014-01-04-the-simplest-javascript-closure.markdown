@@ -12,9 +12,9 @@ Here is the simplest closure:
 <span style='color:rgb(189, 51, 51);'>
     A closure is a function along with the data contained by the scope in which that function was defined.
 </span>
-    <br>
-    <br>
-    A closure is created whenever a javascript function is created. The function keeps a reference to its parent scope so that it is able to access other variables and functions defined in that scope.
+
+A closure is created whenever a javascript function is created.
+The function keeps a reference to its parent scope so that it is able to access other variables and functions defined in that scope.
 
 ```javascript
     // parent scope
