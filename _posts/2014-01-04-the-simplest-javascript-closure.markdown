@@ -30,7 +30,7 @@ The function keeps a reference to its parent scope so that it is able to access 
 
 Here the variable `home` is outside of `whereIsHome`'s *function scope*. 
 
-`whereIsHome` keeps a reference to its *parent scope*.
+`whereIsHome` keeps a reference to its *parent scope*, the scope where it was defined.
 
 When `whereIsHome` is called, it can access `home`.
 
