@@ -29,5 +29,8 @@ The function keeps a reference to its parent scope so that it is able to access 
 ```
 
 Here the variable `home` is outside of `whereIsHome`'s *function scope*. 
-Because `whereIsHome` keeps a reference to its *parent scope*, when `whereIsHome` is called, it can access `home`.
+
+`whereIsHome` keeps a reference to its *parent scope*.
+
+When `whereIsHome` is called, it can access `home`.
 
