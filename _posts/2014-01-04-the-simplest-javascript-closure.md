@@ -11,6 +11,7 @@ Here is the simplest closure:
 
 <span style='color:rgb(189, 51, 51);'>
     A closure is a function along with the data contained by the scope in which that function was defined.
+    <br>
     A closure is created whenever a javascript function is created. The function keeps a reference to its parent scope so that it is able to access other variables and functions defined in that scope.
 </span>
 
@@ -26,5 +27,5 @@ Here is the simplest closure:
     whereIsHome();    // alerts 'Moscow'
 ```
 
-Here the variable `home` is outside of `whereIsHome`'s function scope but because `whereIsHome` keeps a reference to its *parent scope* when `whereIsHome` is called, it can access `home`.
+Here the variable `home` is outside of `whereIsHome`'s *function scope* but because `whereIsHome` keeps a reference to its *parent scope* when `whereIsHome` is called, it can access `home`.
 
