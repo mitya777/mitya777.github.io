@@ -16,7 +16,6 @@ Here is the simplest closure:
 A closure is created whenever a javascript function is created.
 The function keeps a reference to its parent scope so that it is able to access other variables and functions defined in that scope.
 
-```javascript
     // parent scope
     var home = 'Moscow';
 
@@ -26,7 +25,6 @@ The function keeps a reference to its parent scope so that it is able to access 
     }
 
     whereIsHome();    // alerts 'Moscow'
-```
 
 Here the variable `home` is outside of `whereIsHome`'s *function scope*. 
 
