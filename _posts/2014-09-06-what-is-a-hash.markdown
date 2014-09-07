@@ -19,10 +19,10 @@ A simple example is the 'modulus 100' function:
         return x % 100;
     }
 
-    mod_100( 1 ) // => 01 ie. 1
-    mod_100( 42 ) // => 42
-    mod_100( 888 ) // => 88
-    mod_100( 7777 ) // => 77
+    mod100( 1 ) // => 01 ie. 1
+    mod100( 42 ) // => 42
+    mod100( 888 ) // => 88
+    mod100( 7777 ) // => 77
 
 Regardless of the input's length, the modulus function always returns a two digit number.
 
