@@ -36,7 +36,9 @@ The MD5 and other hash functions allow us to map these long binary file encoding
 
 The above example shows that the Declaration of Independence (almost 10,000 characters and about 20,000 hex digits) hashes to the much shorter string 'ca3b0dcdc926ed4a8e60cfcad676915e'. 
 
-'ca3b0dcdc926ed4a8e60cfcad676915e' can be considered a kind of math-based fingerprint of the text of the Declaration of Independence because if we were to change one word of the Declaration it would map to a totally different number.
+<span style='color:rgb(189, 51, 51);'>
+    The hash 'ca3b0dcdc926ed4a8e60cfcad676915e' can be considered a kind of math-based fingerprint of the text of the Declaration of Independence because if we were to change one word of the Declaration it would map to a totally different number.
+</span>
 
 One, among many, ways this is useful is that we can compare the MD5 fingerprints of texts, or video files, or any large files, instead of comparing the actual files.
 
@@ -45,5 +47,6 @@ We could periodically download the video file and check whether it had changed o
 But if the file didn't change often this would mean we would keep downloading the same file over and over only to discard it upon finding it is identical to what we have on our local system.
 
 A better solution is to periodically download the much smaller MD5 hash of the remote video file and compare it to the hash of our local video file.
-This would save a lot of unnecessary network bandwidth. If they hash comes back the same we can be confident that the file hasn't changed and we still have the latest version.
+This would save a lot of unnecessary network bandwidth. If the hash comes back the same we can be confident that the file hasn't changed and we still have the latest version.
+
 If the hash came back changed it would signal the video file had been updated and we could then go ahead and download it.
