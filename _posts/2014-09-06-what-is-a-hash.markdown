@@ -7,7 +7,10 @@ tags: [bitcoin, cryptography, software-engineering]
 ---
 {% include JB/setup %}
 
-A hash function is a mathematical function which takes any number and converts it into some other number of a fixed size.
+<span style='color:rgb(189, 51, 51);'>
+    A hash function is a mathematical function which takes any number and converts it to another number of some fixed size.
+</span>
+
 We could have a function which takes a 1,2,3,..., or n digit number and always converts it to a 2 digit number.
 
 A simple example is the 'modulus 100' function:
