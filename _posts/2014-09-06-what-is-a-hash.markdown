@@ -35,6 +35,7 @@ The MD5 and other hash functions allow us to map these long binary file encoding
     MD5( Declaration of Independence ) // => ca3b0dcdc926ed4a8e60cfcad676915e (hexadecimal)
 
 The above example shows that the Declaration of Independence (almost 10,000 characters and about 20,000 hex digits) hashes to the much shorter string 'ca3b0dcdc926ed4a8e60cfcad676915e'. 
+
 'ca3b0dcdc926ed4a8e60cfcad676915e' can be considered a kind of math-based fingerprint of the text of the Declaration of Independence because if we were to change one word of the Declaration it would map to a totally different number.
 
 One, among many, ways this is useful is that we can compare the MD5 fingerprints of texts, or video files, or any large files, instead of comparing the actual files.
