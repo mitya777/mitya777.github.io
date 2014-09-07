@@ -15,7 +15,7 @@ We could have a function which takes a 1,2,3,..., or n digit number and always c
 
 A simple example is the 'modulus 100' function:
     
-    function mod_100(x) {
+    function mod100(x) {
         return x % 100;
     }
 
