@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal/post
 title: "HTML Justice Department Ferguson Report Summary"
 description: "Just the Report Summary"
 category: "PDF2HTML"
@@ -9,7 +9,7 @@ tags: [PDF2HTML]
 
 Below is the report summary from March 4th, 2015 Justice Departement report on Ferguson policing. The full version can be found at [http://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/ferguson_police_department_report.pdf](http://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/ferguson_police_department_report.pdf).
 
-# I. REPORT SUMMARY
+### I. REPORT SUMMARY
 
 The Civil Rights Division of the United States Department of Justice opened its
 investigation of the Ferguson Police Department (“FPD”) on September 4, 2014. This
@@ -67,7 +67,7 @@ disparities. Over time, Ferguson’s police and municipal court practices have s
 between parts of the community and the police department, undermining law enforcement
 legitimacy among African Americans in particular.
 
-## Focus on Generating Revenue
+#### Focus on Generating Revenue
 
 The City budgets for sizeable increases in municipal fines and fees each year, exhorts
 police and court staff to deliver those revenue increases, and closely monitors whether those
@@ -83,7 +83,7 @@ police officers from all ranks told us that revenue generation is stressed heavi
 department, and that the message comes from City leadership. The evidence we reviewed
 supports this perception.
 
-## Police Practices
+#### Police Practices
 
 The City’s emphasis on revenue generation has a profound effect on FPD’s approach to
 law enforcement. Patrol assignments and schedules are geared toward aggressive enforcement
@@ -122,7 +122,7 @@ license. Another charge was for not wearing a seat belt, even though he was seat
 car. The officer also charged the man both with having an expired operator’s license, and with
 having no operator’s license in his possession. The man told us that, because of these charges, he lost his job as a contractor with the federal government that he had held for years.
 
-## Municipal Court Practices
+#### Municipal Court Practices
 
 Ferguson has allowed its focus on revenue generation to fundamentally compromise the
 role of Ferguson’s municipal court. The municipal court does not act as a neutral arbiter of the
@@ -178,7 +178,7 @@ but only after the court’s letter rejecting payment by money order was returne
 This woman is now making regular payments on the fine. As of December 2014, over seven
 years later, despite initially owing a $151 fine and having already paid $550, she still owed $541.
 
-## Racial Bias
+#### Racial Bias
 
 Ferguson’s approach to law enforcement both reflects and reinforces racial bias,
 including stereotyping. The harms of Ferguson’s police and court practices are borne
@@ -236,7 +236,7 @@ long recognized but failed to correct the consistent racial disparities caused b
 court practices, demonstrates that the discriminatory effects of Ferguson’s conduct are driven at
 least in part by discriminatory intent in violation of the Fourteenth Amendment.
 
-## Community Distrust
+#### Community Distrust
 
 Since the August 2014 shooting death of Michael Brown, the lack of trust between the
 Ferguson Police Department and a significant portion of Ferguson’s residents, especially African
