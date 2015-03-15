@@ -1,6 +1,6 @@
 ---
 layout: minimal/post
-title: "HTML Justice Department Ferguson Report Summary"
+title: "Justice Department Ferguson Report Summary"
 description: "Just the Report Summary"
 category: "PDF2HTML"
 tags: [PDF2HTML]
