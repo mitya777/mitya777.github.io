@@ -34,8 +34,4 @@ The Justice Department report:
 
 > ...**many officers appear to see some residents... less as constituents to be protected than as potential offenders and sources of revenue.**
 
-
-
-These government practices violate the American axiom that: All men and women are created equal under the law.
-
-There is no more Conservative cause in America today than the reformation of police departments and court systems like those found in Ferguson.
+There is no greater Conservative cause today than the reformation of oppressive police departments and court systems like those found in Ferguson. 
