@@ -7,9 +7,14 @@ tags: [politics]
 ---
 {% include JB/setup %}
 
-\#BlackLivesMatter is a movement catalyzed by the police killing of Mike Brown, an unarmed black man.
+August 9th, 2014: Michael Brown is shot by a Ferguson, Missouri police officer. This sets off a series of protests and catalyzes the #BlackLivesMatter movement and a conversation about police brutality.
 
-Supporting #BlackLivesMatter is an opportunity for Conservatives to champion their most deeply cherished beliefs.
+March 4th, 2015: the U.S. Justice Department issues a report on the state of Ferguson policing and criminal justice system.
+
+According to the report Ferguson is a dystopian government arbitrarily violating the constitutional rights and human dignity of its citizens to illegally tax them at the point of a gun.
+
+Lending their support to groups like #BlackLivesMatter is an opportunity for Conservatives to champion their most cherished beliefs: love of constitution, and hate of taxes.
+
 
 In [We The People: A Restoration of Constitutional Government](https://www.gop.com/platform/we-the-people/) the Republican Platform states:
 
@@ -30,8 +35,7 @@ The Justice Department report:
 > ...**many officers appear to see some residents... less as constituents to be protected than as potential offenders and sources of revenue.**
 
 
-According to this report Ferguson is a dystopian government arbitrarily violating the constitutional rights and human dignity of its citizens to illegally tax them at the point of a gun.
 
 These government practices violate the American axiom that: All men and women are created equal under the law.
 
-There is no more conservative cause in America today than the reformation of the Ferguson police department and municipal justice system.
+There is no more Conservative cause in America today than the reformation of police departments and court systems like those found in Ferguson.
