@@ -16,7 +16,7 @@ According to the report Ferguson is a dystopian government arbitrarily violating
 Lending their support to groups like #BlackLivesMatter is an opportunity for Conservatives to champion their most cherished beliefs: love of constitution, and hate of taxes.
 
 
-In [We The People: A Restoration of Constitutional Government](https://www.gop.com/platform/we-the-people/) the Republican Platform states:
+In [We The People: A Restoration of Constitutional Government](https://www.gop.com/platform/we-the-people/) the Republican Platform declares:
 
 > **We are the party of the Constitution**, the solemn compact which confirms our God-given individual rights and assures that all Americans stand equal before the law.
 
@@ -24,7 +24,7 @@ The Justice Department report on Ferguson revealed:
 
 > ...a pattern or practice of unlawful conduct within the Ferguson Police Department that **violates the First, Fourth, and Fourteenth Amendments to the United States Constitution**, and federal statutory law.
 
-The first point of the [Tea Party Platform](http://www.teaparty-platform.com/) states:
+The first point of the [Tea Party Platform](http://www.teaparty-platform.com/) proclaims:
 
 > **Eliminate Excessive Taxes** - Excessively high taxes are a burden for those exercising their personal liberty to work hard and prosper as afforded by the Constitution.
 
