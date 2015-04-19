@@ -42,9 +42,9 @@ end #JB
 
 # Usage: rake post title="A Title" [date="2012-02-09"] [tags=[tag1,tag2]] [category="category"]
 desc "Begin a new post in #{CONFIG['posts']}"
-task :post do
+task :post,[:title] do |t, args|
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
-  title = ENV["title"] || "new-post"
+  title = args.title || "new-post"
   tags = ENV["tags"] || "[]"
   category = ENV["category"] || ""
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
