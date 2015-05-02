@@ -25,7 +25,7 @@ Given a monopoly to exert physical violence police abuse this power in defense o
 
 -David Simon, creator of the Wire.
 
-Even good-intentioned men and women succumb to a corrupt system in which they're granted power to assault and automatic immunity from the consequences of its misuse.
+Even good-intentioned cops succumb to a corrupt system in which they're granted power to assault and automatic immunity from the consequences of its misuse.
 
 We must fight to get to a place where the rule of law applies everywhere, even when face to face with an officer who's had a bad day.
 
