@@ -19,7 +19,7 @@ However, if black on black violence is a cancer then *blue* on black violence is
 
 Meant to protect the body-politic, too often, police turn on it, serving their tribe at the expense of the law. 
 
-Given a monopoly to exert physical violence police, too often, abuse this power in defense of a contrived privelege.
+Given a monopoly to exert physical violence police abuse this power in defense of a contrived privelege.
 
 > It used to be said — correctly — that the patrolman on the beat on any American police force was the last perfect tyranny."
 
