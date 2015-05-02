@@ -29,7 +29,7 @@ Even good-intentioned cops succumb to a corrupt system in which they're granted 
 
 We must fight to get to a place where the rule of law applies everywhere, even when face to face with an officer who's had a bad day.
 
-If we fail - the institutions we've created to fight the cancers in our communities will consume our civilization from the inside.
+If we fail: the institutions we've created to fight the cancers in our communities will consume our civilization from the inside.
 
 <a href="https://twitter.com/share" class="twitter-share-button"
 data-text="If black on black violence is a cancer then blue on black violence is auto-immune desease."
