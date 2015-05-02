@@ -25,8 +25,18 @@ Given a monopoly to exert physical violence police, too often, abuse this power 
 
 -David Simon, creator of the Wire.
 
-Even good-intentioned men and women succumb to a corrupt system in which they're granted power to assault with automatic immunity from the consequences of its misuse.
+Even good-intentioned men and women succumb to a corrupt system in which they're granted power to assault and automatic immunity from the consequences of its misuse.
 
 We must fight to get to a place where the rule of law applies everywhere, even when face to face with an officer who's had a bad day.
 
-If we fail the institutions we've created to heal the cancers in our communities will waste our civilization from the inside.
+If we fail - the institutions we've created to fight the cancers in our communities will consume our civilization from the inside.
+
+<a href="https://twitter.com/share" class="twitter-share-button"
+data-text="If black on black violence is a cancer then blue on black violence is auto-immune desease."
+data-url="http://bit.ly/1zCTfth"
+data-hashtags="baltimoreuprising"
+data-dnt="true">
+    Tweet
+</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
