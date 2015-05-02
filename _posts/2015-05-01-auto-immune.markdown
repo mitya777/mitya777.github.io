@@ -34,7 +34,6 @@ If we fail: the institutions we've created to fight the cancers in our communiti
 <a href="https://twitter.com/share" class="twitter-share-button"
 data-text="If black on black violence is a cancer then blue on black violence is auto-immune desease."
 data-url="http://bit.ly/1zCTfth"
-data-count="none"
 data-hashtags="baltimoreuprising"
 data-dnt="true">
     Tweet
