@@ -7,13 +7,13 @@ tags: [politics]
 ---
 {% include JB/setup %}
 
-August 9th, 2014: Michael Brown is shot by a Ferguson, Missouri police officer. This sets off a series of protests and catalyzes the #BlackLivesMatter movement and a conversation about police brutality.
+Ferguson, Missouri is a dystopian government arbitrarily violating the constitutional rights and human dignity of its citizens to illegally tax them at the point of a gun.
 
-March 4th, 2015: the U.S. Justice Department issues a report on the state of Ferguson policing and criminal justice system.
+This was the finding of the March 4th, 2015 Justice Department report.
 
-According to the report Ferguson is a dystopian government arbitrarily violating the constitutional rights and human dignity of its citizens to illegally tax them at the point of a gun.
+The report came in response to the August 9th, 2014 slaying of unarmed Michael Brown in Ferguson which set off a series of protests and catalyzed the #BlackLivesMatter movement along with a national conversation about police brutality.
 
-Lending their support to groups like #BlackLivesMatter is an opportunity for Conservatives to champion their most cherished beliefs: love of constitution, and hate of taxes.
+Conservatives have an opportunity to champion their most cherished beliefs - love of constitution, and hate of taxes - by lending their support to the #BlackLivesMatter movement.
 
 
 In [We The People: A Restoration of Constitutional Government](https://www.gop.com/platform/we-the-people/) the Republican Platform declares:
