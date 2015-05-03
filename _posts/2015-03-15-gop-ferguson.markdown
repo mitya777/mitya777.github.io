@@ -7,7 +7,7 @@ tags: [politics]
 ---
 {% include JB/setup %}
 
-Ferguson, Missouri is a dystopian government arbitrarily violating the constitutional rights and human dignity of its citizens to illegally tax them at the point of a gun.
+A dystopian government arbitrarily violating the constitutional rights and human dignity of its citizens to illegally tax them at the point of a gun.
 
 This was the finding of the March 4th, 2015 Justice Department report.
 
@@ -35,3 +35,12 @@ The Justice Department report:
 > ...**many officers appear to see some residents... less as constituents to be protected than as potential offenders and sources of revenue.**
 
 There is no greater Conservative cause today than the reformation of oppressive police departments and court systems like those found in Ferguson. 
+
+<a href="https://twitter.com/share" class="twitter-share-button"
+data-text="Dystopian government violating rights and dignity of citizens to tax them at the point of a gun."
+data-url="http://bit.ly/1PfU64L"
+data-hashtags="BlackLivesMatter"
+data-dnt="true">
+    Tweet
+</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
