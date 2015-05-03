@@ -37,7 +37,7 @@ The Justice Department report:
 There is no greater Conservative cause today than the reformation of oppressive police departments and court systems like those found in Ferguson. 
 
 <a href="https://twitter.com/share" class="twitter-share-button"
-data-text="Dystopian government violating rights and dignity of citizens to tax them at the point of a gun."
+data-text="Dystopian government violates rights and dignity of its citizens to tax them at the point of a gun."
 data-url="http://bit.ly/1PfU64L"
 data-hashtags="BlackLivesMatter"
 data-dnt="true">
