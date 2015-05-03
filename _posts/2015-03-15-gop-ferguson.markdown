@@ -7,7 +7,7 @@ tags: [politics]
 ---
 {% include JB/setup %}
 
-A dystopian government arbitrarily violating the constitutional rights and human dignity of its citizens to illegally tax them at the point of a gun.
+A dystopian government arbitrarily violates the constitutional rights and human dignity of its citizens to illegally tax them at the point of a gun.
 
 This was the finding of the March 4th, 2015 Justice Department report.
 
