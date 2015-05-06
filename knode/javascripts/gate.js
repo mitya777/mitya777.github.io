@@ -75,7 +75,7 @@ This is the annotation marker which when clicked on displays the Quests related 
       var id = popoverId;
       popoverId++;
       //var popoverTemplate = window.Handlebars.templates["knodePopover"];
-      $.get('/javascripts/templates/knodePopover.handlebars', function(html) {
+      $.get('/knode/templates/knodePopover.handlebars', function(html) {
           var popoverTemplate = Handlebars.compile(html);
           var localQuestsHTML = popoverTemplate({
               quests: quests,
