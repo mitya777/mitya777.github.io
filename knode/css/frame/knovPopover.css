@@ -74,23 +74,22 @@
   padding: 0 10px;
   border: solid 1px #bbb;
   box-shadow: 0 0 15px -3px #555; }
-  .container .header-wrapper {
-    text-align: center; }
-    .container .header-wrapper .header {
-      font-size: 14px;
-      margin-left: -50px;
-      display: inline-block;
-      overflow: ellipsis;
-      padding: 20px 0 0 20px; }
-      .container .header-wrapper .header .icon {
-        opacity: .25;
-        float: left;
-        width: 30px;
-        text-align: center; }
-      .container .header-wrapper .header .inspiration {
-        width: 415px;
-        font-size: 12px;
-        float: left; }
+  .container .header-wrapper .header {
+    font-size: 14px;
+    margin-left: -50px;
+    display: inline-block;
+    overflow: ellipsis;
+    padding: 20px 0 0 20px; }
+    .container .header-wrapper .header .icon {
+      opacity: .25;
+      float: left;
+      width: 30px;
+      text-align: center; }
+    .container .header-wrapper .header .inspiration {
+      width: 415px;
+      text-align: left;
+      font-size: 12px;
+      float: left; }
   .container .quests .quest {
     border-top: solid 1px #eee; }
     .container .quests .quest .answers .answer .vote-up:hover, .container .quests .quest .answers .answer .vote-down:hover {
