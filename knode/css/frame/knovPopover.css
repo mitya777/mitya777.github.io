@@ -1,0 +1,168 @@
+.body {
+  width: 450px;
+  margin: 0px !important; }
+
+.vote-container {
+  float: left;
+  margin-right: 10px;
+  color: #bbb; }
+  .vote-container .vote-value {
+    width: 26px;
+    text-align: right;
+    margin: 2px 0 0 0;
+    font-size: 11px;
+    float: left; }
+  .vote-container .vote-buttons {
+    position: relative;
+    font-size: 19px;
+    width: 14px;
+    margin: -11px 0 0 5px;
+    float: left;
+    cursor: pointer; }
+    .vote-container .vote-buttons .vote {
+      left: 2px; }
+      .vote-container .vote-buttons .vote:hover:not(.voted) {
+        opacity: .6;
+        left: 1px;
+        font-size: 23px; }
+    .vote-container .vote-buttons .vote-up {
+      position: absolute;
+      top: 2px; }
+      .vote-container .vote-buttons .vote-up:hover, .vote-container .vote-buttons .vote-up.voted {
+        top: -1px; }
+    .vote-container .vote-buttons .vote-down {
+      position: absolute;
+      top: 18px; }
+    .vote-container .vote-buttons .voted {
+      opacity: .8;
+      left: 1px;
+      font-size: 23px; }
+
+.question {
+  padding: 20px 0 18px 0; }
+  .question .vote-container {
+    visibility: hidden; }
+    .question .vote-container .vote-up:hover, .question .vote-container .vote-down:hover {
+      color: #10318f; }
+    .question .vote-container .vote-up.voted, .question .vote-container .vote-down.voted {
+      color: #10318f; }
+  .question .icon {
+    color: #10318f;
+    float: left;
+    width: 30px;
+    text-align: center; }
+  .question .content {
+    float: left;
+    font-weight: 600;
+    color: #10318f;
+    width: 400px; }
+  .question .launch-quest {
+    cursor: pointer;
+    margin-right: 5px;
+    visibility: hidden;
+    opacity: .2; }
+    .question .launch-quest:hover {
+      opacity: .85; }
+
+.question:hover .launch-quest {
+  visibility: visible; }
+
+.container {
+  font-family: 'Avenir';
+  font-size: 13px;
+  background: white;
+  padding: 0 10px;
+  border: solid 1px #bbb;
+  box-shadow: 0 0 15px -3px #555; }
+  .container .header-wrapper {
+    text-align: center; }
+    .container .header-wrapper .header {
+      font-size: 14px;
+      margin-left: -50px;
+      display: inline-block;
+      overflow: ellipsis;
+      padding: 20px 0 0 20px; }
+      .container .header-wrapper .header .icon {
+        opacity: .25;
+        float: left;
+        width: 30px;
+        text-align: center; }
+      .container .header-wrapper .header .inspiration {
+        width: 450px;
+        font-size: 12px;
+        float: left; }
+  .container .quests .quest {
+    border-top: solid 1px #eee; }
+    .container .quests .quest .answers .answer .vote-up:hover, .container .quests .quest .answers .answer .vote-down:hover {
+      color: #8b3333; }
+    .container .quests .quest .answers .answer .vote-up.voted, .container .quests .quest .answers .answer .vote-down.voted {
+      color: #8b3333; }
+    .container .quests .quest .answers .answer .answer-container {
+      float: left;
+      padding-bottom: 5px;
+      margin: 0 0 18px 0; }
+      .container .quests .quest .answers .answer .answer-container .icon {
+        float: left;
+        width: 30px;
+        text-align: center;
+        color: #8b3333; }
+        .container .quests .quest .answers .answer .answer-container .icon.selection {
+          opacity: 1; }
+        .container .quests .quest .answers .answer .answer-container .icon.title {
+          opacity: 1; }
+          .container .quests .quest .answers .answer .answer-container .icon.title i.hidden {
+            visibility: hidden; }
+      .container .quests .quest .answers .answer .answer-container .content {
+        float: left;
+        width: 400px; }
+        .container .quests .quest .answers .answer .answer-container .content.selection {
+          font-size: 14px;
+          font-family: "Times New Roman";
+          margin: 0 0 5px 0; }
+        .container .quests .quest .answers .answer .answer-container .content.title a {
+          color: #AC2222;
+          text-decoration: none; }
+          .container .quests .quest .answers .answer .answer-container .content.title a:hover {
+            text-decoration: underline; }
+      .container .quests .quest .answers .answer .answer-container .notes {
+        padding: 3px 10px;
+        font-family: "Gill Sans";
+        color: #886160;
+        background-color: #fff4a9;
+        border: solid 1px #FFE8C0;
+        width: 350px;
+        margin-left: 30px;
+        margin-top: 10px; }
+        .container .quests .quest .answers .answer .answer-container .notes.notes-header {
+          opacity: .4;
+          margin-top: 15px; }
+  .container .question.new-question-container {
+    padding-left: 55px; }
+    .container .question.new-question-container .icon {
+      opacity: .2; }
+    .container .question.new-question-container .content input {
+      margin: 0;
+      padding: 0;
+      outline: none;
+      border: none;
+      font-family: 'Avenir';
+      font-size: 13px; }
+    .container .question.new-question-container .launch-quest {
+      cursor: pointer;
+      margin-right: 5px; }
+      .container .question.new-question-container .launch-quest.focused {
+        visibility: visible; }
+
+.qtip-custom .qtip-content {
+  font-family: 'Avenir'; }
+
+.pleft {
+  float: left; }
+
+.pright {
+  float: right; }
+
+.clear {
+  clear: both; }
+
+/*# sourceMappingURL=knovPopover.css.map */

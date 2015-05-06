@@ -1,0 +1,130 @@
+<head>
+    <link rel='stylesheet' href='{{css}}' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="{{iconsCss}}">
+    <link rel="stylesheet" href='{{qTipCss}}' />
+</head>
+<body class='knovigator popover'>
+    <div class='container'>
+        <div class='header-wrapper'>
+            <div class='header'>
+                <div class='icon'>
+                    <i class='fa fa-quote-left'></i>
+                </div>
+                <div class='inspiration'>
+                    {{inspiration}}
+                </div>
+            </div>
+        </div>
+
+        <div class='question new-question-container'>
+            <div class='icon'>
+                <i class='fa fa-search'></i>
+            </div>
+
+            <div class='content'>
+                <input placeholder='new question...' />
+            </div>
+
+            <div class='launch-quest pright' data-tooltip='Launch search in new tab.'>
+                <a href="" target='_blank'>
+                    <i class='fa fa-chevron-right fa-lg'></i>
+                </a>
+            </div>
+
+            <div class='clear'></div>
+        </div>
+
+        <div class='quests'>
+            {{#each quests}}
+                <div class='quest'>
+                    <div class='question'>
+                        <div class='vote-container'>
+                            <div class='vote-value' data-votable-id='{{id}}' data-votable-type='quest'>
+                                {{vote_total}}
+                            </div>
+                            <div class='vote-buttons'>
+                                <i class ='quest-vote vote vote-up fa fa-caret-up {{current_user_voted_up}}' data-votable-id='{{id}}' data-votable-type='quest' data-votable-value='1'></i>
+                                <i class ='quest-vote vote vote-down fa fa-caret-down {{current_user_voted_down}}' data-votable-id='{{id}}' data-votable-type='quest' data-votable-value='-1'></i>
+                            </div>
+                        </div>
+                        <div class='icon'>
+                            <i class='fa fa-search'></i>
+                        </div>
+
+                        <div class='content'>
+                            {{question.content}}
+                        </div>
+
+                        <div class='launch-quest pright' data-tooltip='Continue search in new tab.'>
+                            <a href="https://google.com/search?q={{question.content}}" target='_blank'>
+                                <i class='fa fa-chevron-right fa-lg'></i>
+                            </a>
+                        </div>
+
+                        <div class='clear'></div>
+                    </div>
+
+                    <div class='answers'>
+                        {{#each answers}}
+                            <div class='answer'>
+                                
+                                <div class='vote-container'>
+                                    <div class='vote-value' data-votable-id='{{id}}' data-votable-type='answer'>
+                                        {{vote_total}}
+                                    </div>
+                                    <div class='vote-buttons'>
+                                        <i class ='answer-vote vote vote-up fa fa-caret-up {{current_user_voted_up}}' data-votable-id='{{id}}' data-votable-type='answer' data-votable-value='1'></i>
+                                        <i class ='answer-vote vote vote-down fa fa-caret-down {{current_user_voted_down}}' data-votable-id='{{id}}' data-votable-type='answer' data-votable-value='-1'></i>
+                                    </div>
+                                </div>
+                                <div class='answer-container'>
+                                    {{#if content}}
+                                        <div class='selection icon'>
+                                            <i class='fa fa-check'></i>
+                                        </div>
+
+                                        <div class='selection content'>
+                                                {{content}}
+                                        </div>
+
+                                        <div class='clear'></div>
+                                    {{/if}}
+
+                                    <div class='title icon'>
+                                        {{#if content}}
+                                            <i class='fa fa-check hidden'></i>
+                                        {{else}}
+                                            <i class='fa fa-check'></i>
+                                        {{/if}}
+                                    </div>
+                                    <div class='title content'>
+                                        {{#if url.title}}
+                                            <a href="{{url.address}}">{{url.title}}</a>
+                                        {{else}}
+                                            <a href="{{url.address}}">{{url.address}}</a> 
+                                        {{/if}}
+                                    </div>
+
+                                    <div class='clear'></div>
+
+                                    {{#if annotation}}
+                                        <div class='notes'>
+                                                {{annotation}}
+                                        </div>
+
+                                        <div class='clear'></div>
+                                    {{/if}}
+                                </div>
+                                <div class='clear'></div>
+                            </div>
+                        {{/each}}
+                    </div>
+                </div>
+            {{/each}}
+        </div>
+    </div>
+
+    <script src='{{jqueryJs}}'></script>
+    <script src='{{qTipJs}}'></script>
+    <script src='{{js}}'></script>
+</body>
