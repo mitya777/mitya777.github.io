@@ -30,6 +30,8 @@ The right not to be killed.
 
 The right not to have your property arbitrarily seized.
 
+The right not to be arbitrarily arrested.
+
 The right to Habeus Corpus.
 
 The right to a fair trial.
