@@ -24,7 +24,7 @@ Police are able to employ brutal violence and intimidation for the pettiest of r
 
 The system which enables this lack of accountability should shock every "Land of the Free" American.
 
-Though disproportionately employed against minorities the legal regime which enables these abuses can be pointed at anyone and anytime and undermines some of the most basic rights Americans, no longer correctly, assume for themselves.
+Though disproportionately employed against minorities the legal regime which enables these abuses can be pointed at anyone and anytime and undermines some of the most basic rights Americans, incorrectly, assume for themselves.
 
 The right not to be killed.
 
