@@ -34,8 +34,7 @@ The right to Habeus Corpus.
 
 The right to a fair trial.
 
-Although it's true that there are good cops and bad cops, it doesn't matter.
-Both good and bad cops operate inside of a bad system.
+Although it's true that there are good cops and bad cops, it doesn't matter; both good and bad cops operate inside of a bad system.
 
 This system rewards abuse by allowing officers to enjoy the benefits of the illegal exercise of their power without a competing incentive to follow the law (like staying out of jail).
 
