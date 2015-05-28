@@ -14,6 +14,7 @@ We carve out this exception to give police the ability to guard us from criminal
 Instead, too often, we find that to invite police into your life is to shed the freedoms and security they ostensibly protect.
 
 > It used to be said — correctly — that the patrolman on the beat on any American police force was the last perfect tyranny. Absent a herd of reliable witnesses, there were things he could do to deny you your freedom or kick your ass that were between him, you, and the street.
+*David Simon*
 
 Power corrupts which is why great power requires great accountability.
 
