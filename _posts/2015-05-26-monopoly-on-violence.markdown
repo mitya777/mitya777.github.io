@@ -15,7 +15,7 @@ Instead, too often, we find that to invite police into your life is to shed the 
 
 > It used to be said — correctly — that the patrolman on the beat on any American police force was the last perfect tyranny. Absent a herd of reliable witnesses, there were things he could do to deny you your freedom or kick your ass that were between him, you, and the street.
 
-*David Simon*
+*- David Simon*
 
 Power corrupts which is why great power requires great accountability.
 
