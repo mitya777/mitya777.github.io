@@ -56,8 +56,9 @@ $answer_color: #8b3333;
 }
 
 .question {
-    padding: 20px 0 18px 0;
+    padding: 45px 0 18px 15px;
     .vote-container {
+        display: none;
         visibility: hidden;
         .vote-up, .vote-down {
             &:hover {
@@ -109,6 +110,7 @@ $answer_color: #8b3333;
         .header{
             font-size: 14px;
             display: inline-block;
+            display: none;
             overflow: ellipsis;
             padding: 20px 0 0 20px;
             .icon{
@@ -130,13 +132,17 @@ $answer_color: #8b3333;
             border-top: solid 1px #eee;
 
             .answers {
+                margin-left: 45px;
                 .answer {
-                    .vote-up, .vote-down {
-                        &:hover {
-                            color: $answer_color;
-                        }
-                        &.voted {
-                            color: $answer_color;
+                    .vote-container {
+                        display: none;
+                        .vote-up, .vote-down {
+                            &:hover {
+                                color: $answer_color;
+                            }
+                            &.voted {
+                                color: $answer_color;
+                            }
                         }
                     }
                     .answer-container {
@@ -144,11 +150,13 @@ $answer_color: #8b3333;
                         padding-bottom: 5px;
                         margin: 0 0 18px 0;
                         .icon {
+                            display: none;
                             float: left;
                             width: $icon_width;
                             text-align: center;
                             color: $answer_color;
                             &.selection {
+                                display: none;
                                 opacity: 1;
                             }
                             &.title { 
@@ -177,6 +185,7 @@ $answer_color: #8b3333;
                             }
                         }
                         .notes {
+                            margin-bottom: 15px;
                             padding: 3px 10px;
                             font-family: "Gill Sans";
                             color: #886160;
@@ -184,7 +193,7 @@ $answer_color: #8b3333;
                             border: solid 1px #FFE8C0;
                             width: 350px;
 
-                            margin-left: 30px;
+                            //margin-left: 30px;
                             &.notes-header {
                                 opacity: .4;
                                 margin-top: 15px;
@@ -198,6 +207,7 @@ $answer_color: #8b3333;
     }
 
     .question.new-question-container {
+        display:none;
         padding-left: 55px;
         .icon {
             opacity: .2;
@@ -214,6 +224,7 @@ $answer_color: #8b3333;
             }
         }
         .launch-quest {
+            display: none;
             cursor: pointer;
             margin-right: 5px;
             &.focused {
