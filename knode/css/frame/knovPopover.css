@@ -39,7 +39,7 @@
       font-size: 23px; }
 
 .question {
-  padding: 30px 0 18px 15px; }
+  padding: 35px 0 18px 15px; }
   .question .vote-container {
     display: none;
     visibility: hidden; }
@@ -104,7 +104,7 @@
       .container .quests .quest .answers .answer .answer-container {
         float: left;
         padding-bottom: 5px;
-        margin: 0 0 25px 0; }
+        margin: 0 0 15px 0; }
         .container .quests .quest .answers .answer .answer-container .icon {
           display: none;
           float: left;
@@ -171,5 +171,10 @@
 
 .clear {
   clear: both; }
+
+.footer {
+  text-align: center;
+  font-size: 10px;
+  padding: 5px 0px 20px; }
 
 /*# sourceMappingURL=knovPopover.css.map */

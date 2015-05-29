@@ -85,7 +85,8 @@ This is the annotation marker which when clicked on displays the Quests related 
               iconsCss: Knov.getURL('/knode/vendor/font-awesome-4.2.0/css/font-awesome.min.css'),
               jqueryJs: Knov.getURL('/bower_components/jquery/dist/jquery.js'), 
               qTipCss: Knov.getURL('/knode/vendor/qtip/jquery.qtip.min.css'),
-              qTipJs: Knov.getURL('/knode/vendor/qtip/jquery.qtip.min.js')
+              qTipJs: Knov.getURL('/knode/vendor/qtip/jquery.qtip.min.js'),
+              knovHost: Knov.getHost()
           });
           if (this.questsFrame) {
             $(this.questsFrame.frame).remove();

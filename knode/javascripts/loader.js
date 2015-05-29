@@ -8,3 +8,7 @@ rangy.init();
 Knov.getURL = function(url) {
     return url;
 }
+
+Knov.getHost = function() {
+    return Knov.host;
+}
