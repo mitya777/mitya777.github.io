@@ -253,3 +253,21 @@ footer {
     color:#444;
   }
 }
+
+#newsletter-signup {
+    border-top: solid 1px #ddd;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+#newsletter-signup #mc_embed_signup form{
+    padding-left: 0;
+}
+
+#mc_embed_signup label {
+    font-weight: 400 !important;
+}
+
+#mc_embed_signup input.email {
+    border:none;
+}
