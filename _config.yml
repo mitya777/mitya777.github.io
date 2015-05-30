@@ -2,6 +2,10 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
 
+name:         First Draft
+description:  Politics and Poetry
+url:          https://mitya777.github.io
+
 markdown: kramdown
 port: 4100
 
