@@ -2,7 +2,7 @@
 layout: minimal/post
 title: "Inner Join Visualized"
 description: ""
-category: ""
+category: "dev"
 tags: ['software engineering']
 ---
 {% include JB/setup %}
