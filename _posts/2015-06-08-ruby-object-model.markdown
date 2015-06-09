@@ -2,7 +2,7 @@
 layout: minimal/post
 title: "Ruby Object Model"
 description: ""
-category: "software engineering"
+category: "dev"
 tags: [ruby, 'software engineering']
 ---
 {% include JB/setup %}
