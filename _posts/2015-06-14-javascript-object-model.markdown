@@ -1,6 +1,6 @@
 ---
 layout: minimal/post
-title: "Javascript Object and Prototypical Inheritance Visualization"
+title: "Javascript Object Model"
 description: ""
 category: "dev"
 tags: [javascript]
