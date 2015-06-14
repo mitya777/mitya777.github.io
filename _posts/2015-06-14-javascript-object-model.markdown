@@ -9,7 +9,7 @@ tags: [javascript]
 
 <br>
 
-<img height='700px' width='726px' style="max-width: 1000px;"  src="/assets/images/javascriptObjectModel.png">
+<img height='700px' width='722px' style="max-width: 1000px;"  src="/assets/images/javascriptObjectModel.png">
 
 <br>
 
