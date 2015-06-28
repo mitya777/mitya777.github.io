@@ -77,6 +77,7 @@
     $('html').on('click', function() {
         increaseOpacity(s);
         $context.hide();
+        setNext('#animal_constr');
     });
 
     function setupClickHandler(opts) {

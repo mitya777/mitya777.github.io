@@ -65,8 +65,8 @@ tags: [javascript svg]
 <line class="svg svg-proto svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="491.3" y1="690.4" x2="491.3" y2="569"/>
 <text class="svg svg-proto svg-subclass svg-text" transform="matrix(1 0 0 1 367.0688 742.6514)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">__proto__</text>
 
-<circle filter="url(#dropShadow)" id="human_proto" class="svg-proto svg-subclass svg-shape" fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="324" cy="774" r="41.8"/>
-<text id="human_proto_label" class="svg-proto svg-subclass svg-text" transform="matrix(1 0 0 1 303.209 769.8555)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13.5518">Human</tspan><tspan x="-9" y="16.3" font-family="'MyriadPro-Regular'" font-size="13.5518">.prototype</tspan></text>
+<circle filter="url(#dropShadow)" id="human_proto" class="svg svg-proto svg-subclass svg-shape" fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="324" cy="774" r="41.8"/>
+<text id="human_proto_label" class="svg svg-proto svg-subclass svg-text" transform="matrix(1 0 0 1 303.209 769.8555)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13.5518">Human</tspan><tspan x="-9" y="16.3" font-family="'MyriadPro-Regular'" font-size="13.5518">.prototype</tspan></text>
 
 
 <path class="svg svg-line" id="SVGID_x5F_1_x5F_" fill="none" d="M480.8,889l334.5,0.1"/>
@@ -83,7 +83,7 @@ tags: [javascript svg]
 // Human constr.
 <line class="svg svg-proto svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="365.8" y1="815.8" x2="418.1" y2="868.2"/>
 <circle class="svg svg-proto svg-subclass svg-line" fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="365.8" cy="815.8" r="4.1"/>
-<polygon filter="url(#dropShadow)" class="svg svg-proto svg-subclass svg-shape" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="423.6,930.9 399.1,906.4 399.1,871.7 423.6,847.2 
+<polygon filter="url(#dropShadow)" id="human_constr" class="svg svg-proto svg-subclass svg-shape" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="423.6,930.9 399.1,906.4 399.1,871.7 423.6,847.2 
 	458.3,847.2 482.8,871.7 482.8,906.4 458.3,930.9 "/>
 <text class="svg svg-proto svg-subclass svg-line" transform="matrix(1 0 0 1 416.2822 893.0039)" font-family="'MyriadPro-Regular'" font-size="13.5518">Human()</text>
 
