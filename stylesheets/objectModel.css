@@ -1,3 +1,8 @@
+#Layer_1 {
+    margin-top: 20px;
+    width: 706px;
+    height: 700px;
+}
 #context{
     position: absolute;
     font-family: Avenir;
@@ -15,7 +20,7 @@
 
 .next-view {
     stroke: gray;
-    //stroke-width: 2px;
+    stroke-width: 3px;
     filter: drop-shadow( -5px -5px 5px #000 );
     -webkit-filter: drop-shadow( -5px -5px 5px #000 );
 }

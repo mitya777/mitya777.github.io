@@ -21,6 +21,20 @@
         $context.css(css);
     }
 
+    function setNext(selector) {
+        var set = s.selectAll('.svg');
+        set.forEach(function(el) {
+            el.removeClass('next-view');
+        });
+
+        set = s.selectAll(selector);
+        set.forEach(function(el) {
+            el.addClass('next-view');
+        });
+    }
+
+    setNext("#animal_constr");
+
     // Animal constructor.
     setupClickHandler({
         clickSelector: '#animal_constr, #animal_label, #monkey_inst, #monkey_label',
@@ -29,7 +43,8 @@
         css: {
             left: '900px',
             marginTop: '-780px'
-        }
+        },
+        next: "#animal_proto"
     });
 
 
@@ -41,7 +56,8 @@
         css: {
             left: '900px',
             marginTop: '-705px'
-        }
+        },
+        next: "#human_proto"
     });
 
     // Human.prototype
@@ -52,7 +68,8 @@
         css: {
             left: '900px',
             marginTop: '-805px'
-        }
+        },
+        next: "#human_constr"
     });
 
 
@@ -73,6 +90,7 @@
         clickSet.forEach(function(el){
             el.click(function(ev) {
                 showTemplate(templateSelector, showSet, css, ev);
+                setNext(opts.next);
             }); 
         });
     }

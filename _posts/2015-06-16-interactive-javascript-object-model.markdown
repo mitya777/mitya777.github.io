@@ -7,8 +7,6 @@ tags: [javascript svg]
 ---
 {% include JB/setup %}
 
-<br>
-
 <svg version="1.1" id="Layer_1" height="700px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1119 1109" enable-background="new 0 0 1119 1109" xml:space="preserve">
 
@@ -20,9 +18,10 @@ tags: [javascript svg]
         <feMergeNode in="SourceGraphic" />
     </feMerge>
 </filter>
+<line class="svg svg-monkey svg-proto svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="1120" y1="565" x2="1120" y2="544"/>
 
 // Animal prototype.
-<circle filter="url(#dropShadow)" id="animal_proto" class="next-view svg svg-animal svg-monkey svg-proto svg-subclass svg-shape" fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="491.3" cy="481.3" r="41.8"/>
+<circle filter="url(#dropShadow)" id="animal_proto" class="svg svg-animal svg-monkey svg-proto svg-subclass svg-shape" fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="491.3" cy="481.3" r="41.8"/>
 <text id="animal_proto_label" class="svg svg-animal svg-monkey svg-proto svg-subclass svg-text" transform="matrix(1 0 0 1 471.2739 477.1768)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13.5518">Animal</tspan><tspan x="-9.8" y="16.3" font-family="'MyriadPro-Regular'" font-size="13.5518">.prototype</tspan></text>
 
 //Animal constructor
@@ -35,7 +34,7 @@ tags: [javascript svg]
 <text id="animal_prototype_label" class="svg svg-animal svg-monkey svg-proto svg-subclass svg-text" transform="matrix(1 0 0 1 564.4531 533.5938)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">prototype</text>
 
 
-// Monkey.
+// Monkey instance.
 <line class="svg svg-monkey svg-proto svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="459.9" y1="596.3" x2="491.3" y2="565"/>
 <line class="svg svg-monkey svg-proto svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="344.9" y1="617.2" x2="365.8" y2="596.3"/>
 <line class="svg svg-monkey svg-proto svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="365.8" y1="596.3" x2="459.9" y2="596.3"/>
@@ -82,11 +81,11 @@ tags: [javascript svg]
 
 
 // Human constr.
-<line class="svg svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="365.8" y1="815.8" x2="418.1" y2="868.2"/>
-<circle class="svg svg-subclass svg-line" fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="365.8" cy="815.8" r="4.1"/>
-<polygon filter="url(#dropShadow)" class="svg svg-subclass svg-shape" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="423.6,930.9 399.1,906.4 399.1,871.7 423.6,847.2 
+<line class="svg svg-proto svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="365.8" y1="815.8" x2="418.1" y2="868.2"/>
+<circle class="svg svg-proto svg-subclass svg-line" fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="365.8" cy="815.8" r="4.1"/>
+<polygon filter="url(#dropShadow)" class="svg svg-proto svg-subclass svg-shape" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="423.6,930.9 399.1,906.4 399.1,871.7 423.6,847.2 
 	458.3,847.2 482.8,871.7 482.8,906.4 458.3,930.9 "/>
-<text class="svg svg-subclass svg-line" transform="matrix(1 0 0 1 416.2822 893.0039)" font-family="'MyriadPro-Regular'" font-size="13.5518">Human()</text>
+<text class="svg svg-proto svg-subclass svg-line" transform="matrix(1 0 0 1 416.2822 893.0039)" font-family="'MyriadPro-Regular'" font-size="13.5518">Human()</text>
 
 // Buddha instance.
 <line class="svg svg-line svg-subclass" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="209.1" y1="889" x2="292.7" y2="889"/>
@@ -111,13 +110,13 @@ tags: [javascript svg]
 <line class="svg svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="209.1" y1="1014.4" x2="292.7" y2="1014.4"/>
 <path class="svg svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" d="M324,941.3"/>
 -->
-<polygon filter="url(#dropShadow)" class="svg svg-line" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" points="766.6,523.1 742.1,498.6 742.1,464 766.6,439.4 
+<polygon filter="url(#dropShadow)" class="svg svg-shape" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" points="766.6,523.1 742.1,498.6 742.1,464 766.6,439.4 
 	801.3,439.4 825.8,464 825.8,498.6 801.3,523.1 "/>
 <text class="svg svg-line" transform="matrix(1 0 0 1 761.1455 485.2715)" font-family="'MyriadPro-Regular'" font-size="13.5518">Object()</text>
 
 
 
-<polygon filter="url(#dropShadow)" class="svg svg-line" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="892.1,335 867.6,310.5 867.6,275.8 
+<polygon class="svg svg-line" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="892.1,335 867.6,310.5 867.6,275.8 
 	892.1,251.3 926.8,251.3 951.3,275.8 951.3,310.5 926.8,335 "/>
 <text class="svg svg-line" transform="matrix(1 0 0 1 884.2939 288.9893)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13.5518">Function</tspan><tspan x="-13.8" y="16.3" font-family="'MyriadPro-Regular'" font-size="13.5518">.prototype(){ }</tspan></text>
 <text class="svg svg-line" transform="matrix(1 0 0 1 1047.8398 485.2715)" font-family="'MyriadPro-Regular'" font-size="13.5518">Function()</text>
@@ -157,7 +156,7 @@ tags: [javascript svg]
 <text class="svg svg-line" transform="matrix(1 0 0 1 0 109.6733)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">prototype</tspan></text>
 <polygon filter="url(#dropShadow)" class="svg svg-line" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" points="124.7,201.5 115.5,192.3 115.5,179.3 124.7,170.1 
 	137.7,170.1 146.9,179.3 146.9,192.3 137.7,201.5 "/>
-<polygon filter="url(#dropShadow)" class="svg svg-line" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="124.7,308.3 115.5,299.1 
+<polygon class="svg svg-line" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="124.7,308.3 115.5,299.1 
 	115.5,286.1 124.7,276.8 137.7,276.8 146.9,286.1 146.9,299.1 137.7,308.3 "/>
 <circle filter="url(#dropShadow)" class="svg svg-line" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" cx="130.7" cy="376.2" r="15.7"/>
 <path class="svg svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" d="M133.9,78.9V34.6V78.9z"/>
