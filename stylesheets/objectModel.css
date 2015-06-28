@@ -1,0 +1,25 @@
+#context{
+    position: absolute;
+    font-family: Avenir;
+    font-size: 14px;
+    width: 450px;
+}
+
+.svg-text, .svg-shape {
+    cursor: pointer;
+}
+
+.action {
+    cursor: pointer;
+}
+
+.next-view {
+    stroke: gray;
+    //stroke-width: 2px;
+    filter: drop-shadow( -5px -5px 5px #000 );
+    -webkit-filter: drop-shadow( -5px -5px 5px #000 );
+}
+
+.svg-shape {
+    stroke: gray;
+}

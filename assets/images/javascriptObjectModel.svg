@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1119 1109" enable-background="new 0 0 1119 1109" xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="763.1" y1="460.4" x2="731.7" y2="429.1"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="365.8" y1="815.8" x2="418.1" y2="868.2"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="909.4" y1="679.9" x2="909.4" y2="355.9"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="344.9" y1="617.2" x2="365.8" y2="596.3"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="344.9" y1="742.7" x2="365.8" y2="721.7"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="585.4" y1="575.4" x2="533.1" y2="523.1"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="533.1" y1="648.6" x2="585.4" y2="700.8"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="951.2" y1="335" x2="1066.2" y2="460.4"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="1013.9" y1="429.1" x2="1045.3" y2="460.4"/>
+<polygon fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" points="1059.3,523.1 1034.8,498.6 1034.8,464 1059.3,439.4 
+	1094,439.4 1118.5,464 1118.5,498.6 1094,523.1 "/>
+<circle fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="324" cy="648.6" r="41.8"/>
+<text transform="matrix(1 0 0 1 301.1421 652.5527)" font-family="'MyriadPro-Regular'" font-size="13.5518">monkey</text>
+<circle fill="#EFE8E7" stroke="#000000" stroke-miterlimit="10" cx="156.8" cy="1066.7" r="41.8"/>
+<text transform="matrix(1 0 0 1 130.7798 1070.666)" font-family="'MyriadPro-Regular'" font-size="13.5518">snowden</text>
+<circle fill="#EFE8E7" stroke="#000000" stroke-miterlimit="10" cx="156.8" cy="941.3" r="41.8"/>
+<text transform="matrix(1 0 0 1 138.3555 945.2324)" font-family="'MyriadPro-Regular'" font-size="13.5518">budha</text>
+<circle fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="324" cy="774" r="41.8"/>
+<text transform="matrix(1 0 0 1 303.209 769.8555)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13.5518">Human</tspan><tspan x="-9" y="16.3" font-family="'MyriadPro-Regular'" font-size="13.5518">.prototype</tspan></text>
+<circle fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="491.3" cy="481.3" r="41.8"/>
+<text transform="matrix(1 0 0 1 471.2739 477.1768)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13.5518">Animal</tspan><tspan x="-9.8" y="16.3" font-family="'MyriadPro-Regular'" font-size="13.5518">.prototype</tspan></text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="209.1" y1="889" x2="292.7" y2="889"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="324" y1="983.1" x2="324" y2="836.7"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="292.7" y1="889" x2="324" y2="857.6"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="209.1" y1="1014.4" x2="292.7" y2="1014.4"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" d="M324,941.3"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="292.7" y1="1014.4" x2="324" y2="983.1"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="365.8" y1="596.3" x2="459.9" y2="596.3"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="491.3" y1="690.4" x2="491.3" y2="544"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="365.8" y1="721.7" x2="459.9" y2="721.7"/>
+<polygon fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="589,638.2 564.5,613.7 564.5,579 589,554.5 623.6,554.5 
+	648.1,579 648.1,613.7 623.6,638.2 "/>
+<text transform="matrix(1 0 0 1 582.4629 600.3252)" font-family="'MyriadPro-Regular'" font-size="13.5518">Animal()</text>
+<polygon fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="423.6,930.9 399.1,906.4 399.1,871.7 423.6,847.2 
+	458.3,847.2 482.8,871.7 482.8,906.4 458.3,930.9 "/>
+<text transform="matrix(1 0 0 1 416.2822 893.0039)" font-family="'MyriadPro-Regular'" font-size="13.5518">Human()</text>
+<circle fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" cx="658.5" cy="42.3" r="41.8"/>
+<polygon fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" points="766.6,523.1 742.1,498.6 742.1,464 766.6,439.4 
+	801.3,439.4 825.8,464 825.8,498.6 801.3,523.1 "/>
+<text transform="matrix(1 0 0 1 761.1455 485.2715)" font-family="'MyriadPro-Regular'" font-size="13.5518">Object()</text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="658.5" y1="397.7" x2="658.5" y2="105"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="522.6" y1="450" x2="543.5" y2="429.1"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="627.2" y1="429.1" x2="658.5" y2="397.7"/>
+<polygon fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="892.1,335 867.6,310.5 867.6,275.8 
+	892.1,251.3 926.8,251.3 951.3,275.8 951.3,310.5 926.8,335 "/>
+<text transform="matrix(1 0 0 1 884.2939 288.9893)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13.5518">Function</tspan><tspan x="-13.8" y="16.3" font-family="'MyriadPro-Regular'" font-size="13.5518">.prototype(){ }</tspan></text>
+<text transform="matrix(1 0 0 1 1047.8398 485.2715)" font-family="'MyriadPro-Regular'" font-size="13.5518">Function()</text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="397.2" y1="889" x2="397.2" y2="889"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="867.6" y1="596.3" x2="648.1" y2="596.3"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="867.6" y1="596.3" x2="909.4" y2="554.5"/>
+<path id="SVGID_x5F_1_x5F_" fill="none" d="M480.8,889l334.5,0.1"/>
+<text><textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="7.300000e-02%">
+</textPath>
+</text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="700.3" y1="889" x2="888.5" y2="700.8"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="1013.9" y1="429.1" x2="940.8" y2="429.1"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="940.8" y1="429.1" x2="909.3" y2="397.7"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="857.1" y1="240.9" x2="689.9" y2="240.9"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="689.9" y1="240.9" x2="658.5" y2="209.6"/>
+<polygon fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="589,763.6 564.5,739 564.5,704.4 
+	589,679.9 623.6,679.9 648.1,704.4 648.1,739 623.6,763.6 "/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="533.1" y1="648.6" x2="533.1" y2="565"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="867.4" y1="721.7" x2="648.1" y2="721.7"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="867.6" y1="721.7" x2="909.3" y2="679.9"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="459.9" y1="721.7" x2="491.3" y2="690.4"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="815.3" y1="449.9" x2="836.2" y2="429.1"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="459.9" y1="596.3" x2="491.3" y2="565"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="543.5" y1="429.1" x2="627.2" y2="429.1"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="209.1" y1="889" x2="188.2" y2="909.9"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="188.2" y1="1035.3" x2="209.1" y2="1014.4"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="878" y1="261.8" x2="857.1" y2="240.9"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="700.3" y1="84.1" x2="731.7" y2="115.5"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="731.7" y1="115.5" x2="731.7" y2="429.1"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="836.2" y1="429.1" x2="867.6" y2="429.1"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="874.9" y1="429.1" x2="909.3" y2="397.7"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="376.3" y1="774" x2="376.3" y2="774"/>
+<text transform="matrix(1 0 0 1 639.6846 38.1577)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13.5518">Object</tspan><tspan x="-11" y="16.3" font-family="'MyriadPro-Regular'" font-size="13.5518">.prototype</tspan></text>
+<circle fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="700.3" cy="84.1" r="4.1"/>
+<circle fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="951.2" cy="335" r="4.1"/>
+<circle fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="533.1" cy="523.1" r="4.1"/>
+<circle fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="365.8" cy="815.8" r="4.1"/>
+<polygon fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="658.5,100.7 654.1,109.3 662.8,109.3 "/>
+<polygon fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="909.4,351.6 905,360.2 913.8,360.2 "/>
+<polygon fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="491.3,539.8 486.9,548.3 495.6,548.3 "/>
+<polygon fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="324,832.4 319.7,841 328.4,841 "/>
+<text transform="matrix(1 0 0 1 0 78.3154)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">__proto__</tspan></text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="210.8" y1="110.2" x2="125.4" y2="110.2"/>
+<circle fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="215.4" cy="110.2" r="4.1"/>
+<text transform="matrix(1 0 0 1 0 109.6733)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">prototype</tspan></text>
+<polygon fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" points="124.7,201.5 115.5,192.3 115.5,179.3 124.7,170.1 
+	137.7,170.1 146.9,179.3 146.9,192.3 137.7,201.5 "/>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="124.7,308.3 115.5,299.1 
+	115.5,286.1 124.7,276.8 137.7,276.8 146.9,286.1 146.9,299.1 137.7,308.3 "/>
+<circle fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" cx="130.7" cy="376.2" r="15.7"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" d="M133.9,78.9V34.6V78.9z"/>
+<polygon fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="133.9,26.1 129.5,34.6 138.2,34.6 "/>
+<text transform="matrix(1 0 0 1 31.3584 245.561)" font-family="'MyriadPro-Regular'" font-size="15.0985">functions</text>
+<text transform="matrix(1 0 0 1 167.8247 190.9741)" font-family="'MyriadPro-Regular'" font-size="15.0985">initially available constructor</text>
+<text transform="matrix(1 0 0 1 167.2456 429.0664)" font-family="'MyriadPro-Regular'" font-size="15.0985">object</text>
+<text transform="matrix(1 0 0 1 571.2217 725.799)" font-family="'MyriadPro-Regular'" font-size="13.9371">subclass() { }</text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="700.3" y1="889" x2="481" y2="889.1"/>
+<text transform="matrix(1 0 0 1 167.2451 300.0752)" font-family="'MyriadPro-Regular'" font-size="15.0985">empty definition</text>
+<polygon fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="124.2,256.1 115,246.9 115,233.9 124.2,224.7 137.2,224.7 
+	146.4,233.9 146.4,246.9 137.2,256.1 "/>
+<text transform="matrix(1 0 0 1 167.2451 245.5615)" font-family="'MyriadPro-Regular'" font-size="15.0985">constructor</text>
+<text transform="matrix(1 0 0 1 367.0688 742.6514)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">__proto__</text>
+<text transform="matrix(1 0 0 1 564.4531 533.5938)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">prototype</text>
+<text transform="matrix(1 0 0 1 659.748 742.5791)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">__proto__</text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="533.1" y1="565" x2="554" y2="544"/>
+<text transform="matrix(1 0 0 1 962.8799 449.9722)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">__proto__</text>
+<text transform="matrix(1 0 0 1 1034.8301 408.1602)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">prototype</text>
+<circle fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="131.2" cy="423.8" r="15.7"/>
+<text transform="matrix(1 0 0 1 167.2456 376.8022)" font-family="'MyriadPro-Regular'" font-size="15.0985">initially available object</text>
+</svg>
