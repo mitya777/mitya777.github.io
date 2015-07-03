@@ -150,33 +150,40 @@ tags: [javascript svg]
 <circle class="svg svg-line" fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="951.2" cy="335" r="4.1"/>
 
 <polygon class="svg svg-line" fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="909.4,351.6 905,360.2 913.8,360.2 "/>
-<text class="svg svg-line" transform="matrix(1 0 0 1 0 78.3154)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">__proto__</tspan></text>
-<line class="svg svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="210.8" y1="110.2" x2="125.4" y2="110.2"/>
-<circle filter="url(#dropShadow)" class="svg svg-line" fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="215.4" cy="110.2" r="4.1"/>
-<text class="svg svg-text" transform="matrix(1 0 0 1 0 109.6733)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">prototype</tspan></text>
-<polygon filter="url(#dropShadow)" class="svg svg-line" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" points="124.7,201.5 115.5,192.3 115.5,179.3 124.7,170.1 
+
+
+<text class="svg svg-legend svg-text" transform="matrix(1 0 0 1 0 78.3154)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">__proto__</tspan></text>
+<line class="svg svg-legend svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="210.8" y1="110.2" x2="125.4" y2="110.2"/>
+<circle filter="url(#dropShadow)" class="svg svg-legend svg-shape" fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="215.4" cy="110.2" r="4.1"/>
+<text class="svg svg-legend svg-text" transform="matrix(1 0 0 1 0 109.6733)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">prototype</tspan></text>
+<polygon filter="url(#dropShadow)" class="svg svg-legend svg-shape" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" points="124.7,201.5 115.5,192.3 115.5,179.3 124.7,170.1 
 	137.7,170.1 146.9,179.3 146.9,192.3 137.7,201.5 "/>
-<polygon class="svg svg-line" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="124.7,308.3 115.5,299.1 
+<polygon class="svg svg-legend svg-shape" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="124.7,308.3 115.5,299.1 
 	115.5,286.1 124.7,276.8 137.7,276.8 146.9,286.1 146.9,299.1 137.7,308.3 "/>
-<circle filter="url(#dropShadow)" class="svg svg-line" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" cx="130.7" cy="376.2" r="15.7"/>
-<path class="svg svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" d="M133.9,78.9V34.6V78.9z"/>
-<polygon class="svg svg-line" fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="133.9,26.1 129.5,34.6 138.2,34.6 "/>
-<text class="svg svg-text" transform="matrix(1 0 0 1 31.3584 245.561)" font-family="'MyriadPro-Regular'" font-size="15.0985">functions</text>
-<text class="svg svg-text" transform="matrix(1 0 0 1 167.8247 190.9741)" font-family="'MyriadPro-Regular'" font-size="15.0985">initially available constructor</text>
-<text class="svg svg-text" transform="matrix(1 0 0 1 167.2456 429.0664)" font-family="'MyriadPro-Regular'" font-size="15.0985">object</text>
+<circle filter="url(#dropShadow)" class="svg svg-legend svg-shape" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" cx="130.7" cy="376.2" r="15.7"/>
+<path class="svg svg-legend svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" d="M133.9,78.9V34.6V78.9z"/>
+
+
+<polygon class="svg svg-legend svg-line" fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="133.9,26.1 129.5,34.6 138.2,34.6 "/>
+<text class="svg svg-legend svg-text" transform="matrix(1 0 0 1 31.3584 245.561)" font-family="'MyriadPro-Regular'" font-size="15.0985">functions</text>
+<text class="svg svg-legend svg-text" transform="matrix(1 0 0 1 167.8247 190.9741)" font-family="'MyriadPro-Regular'" font-size="15.0985">initially available constructor</text>
+<text class="svg svg-legend svg-text" transform="matrix(1 0 0 1 167.2456 429.0664)" font-family="'MyriadPro-Regular'" font-size="15.0985">object</text>
+// Empty legend.
+<text class="svg svg-legend svg-text" transform="matrix(1 0 0 1 167.2451 300.0752)" font-family="'MyriadPro-Regular'" font-size="15.0985">empty definition</text>
+<polygon filter="url(#dropShadow)" class="svg svg-legend svg-shape" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="124.2,256.1 115,246.9 115,233.9 124.2,224.7 137.2,224.7 
+	146.4,233.9 146.4,246.9 137.2,256.1 "/>
+<text class="svg svg-legend svg-text" transform="matrix(1 0 0 1 167.2451 245.5615)" font-family="'MyriadPro-Regular'" font-size="15.0985">constructor</text>
+<circle filter="url(#dropShadow)" class="svg svg-legend svg-shape" fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="131.2" cy="423.8" r="15.7"/>
+<text class="svg svg-legend svg-text" transform="matrix(1 0 0 1 167.2456 376.8022)" font-family="'MyriadPro-Regular'" font-size="15.0985">initially available object</text>
+
+
 <line class="svg svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="700.3" y1="889" x2="481" y2="889.1"/>
 
-// Empty legend.
-<text class="svg svg-line" transform="matrix(1 0 0 1 167.2451 300.0752)" font-family="'MyriadPro-Regular'" font-size="15.0985">empty definition</text>
-<polygon filter="url(#dropShadow)" class="svg svg-line" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="124.2,256.1 115,246.9 115,233.9 124.2,224.7 137.2,224.7 
-	146.4,233.9 146.4,246.9 137.2,256.1 "/>
 
-<text class="svg svg-text" transform="matrix(1 0 0 1 167.2451 245.5615)" font-family="'MyriadPro-Regular'" font-size="15.0985">constructor</text>
+
 <text class="svg svg-text" transform="matrix(1 0 0 1 659.748 742.5791)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">__proto__</text>
 <text class="svg svg-text" transform="matrix(1 0 0 1 962.8799 449.9722)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">__proto__</text>
 <text class="svg svg-text" transform="matrix(1 0 0 1 1034.8301 408.1602)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">prototype</text>
-<circle filter="url(#dropShadow)" class="svg svg-line" fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="131.2" cy="423.8" r="15.7"/>
-<text class="svg svg-text" transform="matrix(1 0 0 1 167.2456 376.8022)" font-family="'MyriadPro-Regular'" font-size="15.0985">initially available object</text>
 
 // Start.
 <text id="start_btn" class="svg svg-text" transform="matrix(1 0 0 1 659.748 585.2514)" fill="red" font-family="'MyriadPro-Regular'" font-size="15.9371">START</text>

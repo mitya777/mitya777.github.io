@@ -116,7 +116,7 @@
         var css = opts.css;
 
         var clickSet = s.selectAll(clickSelector);
-        var showSet = s.selectAll(showSelector);
+        var showSet = s.selectAll(showSelector + ', .svg-legend');
         clickSet.forEach(function(el){
             el.click(function(ev) {
                 ev.stopPropagation();
