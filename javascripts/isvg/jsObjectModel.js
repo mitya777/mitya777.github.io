@@ -11,33 +11,46 @@
     });
 
     function showTemplate(templateId, set, css, ev) {
-        console.log('hi');
-        ev.stopPropagation();
-
         $context.show();
         reduceAllOpacity(s);
         set.attr({opacity: 1});
         $context.html($(templateId).html()); 
         $context.css(css);
+
+        setupHover()
     }
 
     function setNext(selector) {
         var set = s.selectAll('.svg');
         set.forEach(function(el) {
             el.removeClass('next-view');
+            el.removeClass('up-stroke-width');
+            $('.svg').unbind('mouseenter mouseleave');
         });
 
-        set = s.selectAll(selector);
-        set.forEach(function(el) {
+        nextPols = s.selectAll(selector);
+        nextPols.forEach(function(el) {
             el.addClass('next-view');
         });
+
+        labelSelector = selector + "_label"
+        nextLabels = s.selectAll(labelSelector);
+        nextLabels.forEach(function(el) {
+            el.addClass('next-view-label');
+        });
+  
+        $(selector + ', ' + labelSelector).hover(function(ev) {
+            s.select(selector).addClass('up-stroke-width');
+        }, function() {
+            s.select(selector).removeClass('up-stroke-width');
+        })
     }
 
     setNext("#animal_constr");
 
     // Animal constructor.
     setupClickHandler({
-        clickSelector: '#animal_constr, #animal_label, #monkey_inst, #monkey_label',
+        clickSelector: '#animal_constr, #animal_constr_label, #monkey_inst, #monkey_label',
         showSelector: '.svg-animal, .svg-monkey',
         templateSelector: '#animal_constr_template',
         css: {
@@ -45,6 +58,22 @@
             marginTop: '-780px'
         },
         next: "#animal_proto"
+    });
+
+    // Setup start.
+    $('#start_btn').hover(function() {
+        s.select('#animal_constr').addClass('up-stroke-width');
+    }, function() {
+        s.select('#animal_constr').removeClass('up-stroke-width');
+    });
+
+    $('#start_btn').on('click', function(ev) {
+        ev.stopPropagation();
+        showTemplate('#animal_constr_template', s.selectAll('.svg-animal, .svg-monkey'), {
+            left: '900px',
+            marginTop: '-780px'
+        }, ev);
+        setNext('#animal_proto');
     });
 
 
@@ -90,9 +119,30 @@
         var showSet = s.selectAll(showSelector);
         clickSet.forEach(function(el){
             el.click(function(ev) {
-                showTemplate(templateSelector, showSet, css, ev);
+                ev.stopPropagation();
+                showTemplate(templateSelector, showSet, css);
                 setNext(opts.next);
             }); 
+        });
+    }
+
+    function setupHover() {
+        var hovers = [
+            'animal_constr',
+            'animal_proto',
+            'monkey_inst'
+        ]
+        hovers.forEach(function(selector) {
+            setupElementHover(selector);
+        });
+    }
+
+    function setupElementHover(selector) {
+        // Hover.
+        $('.hover-' + selector.replace('_', '-')).hover(function(ev) {
+            s.select('#' + selector).addClass('hovered');
+        }, function(ev){ 
+            s.select('#' + selector).removeClass('hovered');
         });
     }
 
@@ -103,7 +153,6 @@
     function increaseOpacity(s) {
         s.selectAll('polygon, circle, line, path, text, textPath').attr({opacity: 1})
     }
-
 })();
 
 

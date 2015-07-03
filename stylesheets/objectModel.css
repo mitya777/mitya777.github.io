@@ -28,3 +28,17 @@
 .svg-shape {
     stroke: gray;
 }
+
+.hovered {
+    stroke: red;
+    stroke-width: 2px;
+}
+
+.red-stroke {
+    stroke: red !important;
+}
+
+.up-stroke-width {
+    stroke-width: 5px !important;
+}
+

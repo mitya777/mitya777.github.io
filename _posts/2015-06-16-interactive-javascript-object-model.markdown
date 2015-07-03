@@ -26,9 +26,9 @@ tags: [javascript svg]
 
 //Animal constructor
 <line class="svg svg-animal svg-monkey svg-proto svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="585.4" y1="575.4" x2="533.1" y2="523.1"/>
-<polygon filter="url(#dropShadow)" id="animal_constr" class="svg svg-animal svg-monkey svg-proto svg-subclass svg-shape" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="589,638.2 564.5,613.7 564.5,579 589,554.5 623.6,554.5 
+<polygon filter="url(#dropShadow)" id="animal_constr" class="start-view svg svg-animal svg-monkey svg-proto svg-subclass svg-shape" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="589,638.2 564.5,613.7 564.5,579 589,554.5 623.6,554.5 
 	648.1,579 648.1,613.7 623.6,638.2 "/>
-<text id="animal_label" class="svg svg-animal svg-monkey svg-proto svg-subclass svg-text" transform="matrix(1 0 0 1 582.4629 600.3252)" font-family="'MyriadPro-Regular'" font-size="13.5518">Animal()</text>
+<text id="animal_constr_label" class="svg svg-animal svg-monkey svg-proto svg-subclass svg-text" transform="matrix(1 0 0 1 582.4629 600.3252)" font-family="'MyriadPro-Regular'" font-size="13.5518">Animal()</text>
 
 <circle class="svg svg-animal svg-monkey svg-proto svg-subclass svg-shape" fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="533.1" cy="523.1" r="4.1"/>
 <text id="animal_prototype_label" class="svg svg-animal svg-monkey svg-proto svg-subclass svg-text" transform="matrix(1 0 0 1 564.4531 533.5938)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">prototype</text>
@@ -153,7 +153,7 @@ tags: [javascript svg]
 <text class="svg svg-line" transform="matrix(1 0 0 1 0 78.3154)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">__proto__</tspan></text>
 <line class="svg svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="210.8" y1="110.2" x2="125.4" y2="110.2"/>
 <circle filter="url(#dropShadow)" class="svg svg-line" fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="215.4" cy="110.2" r="4.1"/>
-<text class="svg svg-line" transform="matrix(1 0 0 1 0 109.6733)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">prototype</tspan></text>
+<text class="svg svg-text" transform="matrix(1 0 0 1 0 109.6733)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">prototype</tspan></text>
 <polygon filter="url(#dropShadow)" class="svg svg-line" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" points="124.7,201.5 115.5,192.3 115.5,179.3 124.7,170.1 
 	137.7,170.1 146.9,179.3 146.9,192.3 137.7,201.5 "/>
 <polygon class="svg svg-line" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="124.7,308.3 115.5,299.1 
@@ -161,9 +161,9 @@ tags: [javascript svg]
 <circle filter="url(#dropShadow)" class="svg svg-line" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" cx="130.7" cy="376.2" r="15.7"/>
 <path class="svg svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" d="M133.9,78.9V34.6V78.9z"/>
 <polygon class="svg svg-line" fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="133.9,26.1 129.5,34.6 138.2,34.6 "/>
-<text class="svg svg-line" transform="matrix(1 0 0 1 31.3584 245.561)" font-family="'MyriadPro-Regular'" font-size="15.0985">functions</text>
-<text class="svg svg-line" transform="matrix(1 0 0 1 167.8247 190.9741)" font-family="'MyriadPro-Regular'" font-size="15.0985">initially available constructor</text>
-<text class="svg svg-line" transform="matrix(1 0 0 1 167.2456 429.0664)" font-family="'MyriadPro-Regular'" font-size="15.0985">object</text>
+<text class="svg svg-text" transform="matrix(1 0 0 1 31.3584 245.561)" font-family="'MyriadPro-Regular'" font-size="15.0985">functions</text>
+<text class="svg svg-text" transform="matrix(1 0 0 1 167.8247 190.9741)" font-family="'MyriadPro-Regular'" font-size="15.0985">initially available constructor</text>
+<text class="svg svg-text" transform="matrix(1 0 0 1 167.2456 429.0664)" font-family="'MyriadPro-Regular'" font-size="15.0985">object</text>
 <line class="svg svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="700.3" y1="889" x2="481" y2="889.1"/>
 
 // Empty legend.
@@ -171,12 +171,15 @@ tags: [javascript svg]
 <polygon filter="url(#dropShadow)" class="svg svg-line" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" points="124.2,256.1 115,246.9 115,233.9 124.2,224.7 137.2,224.7 
 	146.4,233.9 146.4,246.9 137.2,256.1 "/>
 
-<text class="svg svg-line" transform="matrix(1 0 0 1 167.2451 245.5615)" font-family="'MyriadPro-Regular'" font-size="15.0985">constructor</text>
-<text class="svg svg-line" transform="matrix(1 0 0 1 659.748 742.5791)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">__proto__</text>
-<text class="svg svg-line" transform="matrix(1 0 0 1 962.8799 449.9722)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">__proto__</text>
-<text class="svg svg-line" transform="matrix(1 0 0 1 1034.8301 408.1602)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">prototype</text>
+<text class="svg svg-text" transform="matrix(1 0 0 1 167.2451 245.5615)" font-family="'MyriadPro-Regular'" font-size="15.0985">constructor</text>
+<text class="svg svg-text" transform="matrix(1 0 0 1 659.748 742.5791)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">__proto__</text>
+<text class="svg svg-text" transform="matrix(1 0 0 1 962.8799 449.9722)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">__proto__</text>
+<text class="svg svg-text" transform="matrix(1 0 0 1 1034.8301 408.1602)" fill="#6D6E71" font-family="'MyriadPro-Regular'" font-size="13.9371">prototype</text>
 <circle filter="url(#dropShadow)" class="svg svg-line" fill="#EFE8E7" stroke="#7A545F" stroke-miterlimit="10" cx="131.2" cy="423.8" r="15.7"/>
-<text class="svg svg-line" transform="matrix(1 0 0 1 167.2456 376.8022)" font-family="'MyriadPro-Regular'" font-size="15.0985">initially available object</text>
+<text class="svg svg-text" transform="matrix(1 0 0 1 167.2456 376.8022)" font-family="'MyriadPro-Regular'" font-size="15.0985">initially available object</text>
+
+// Start.
+<text id="start_btn" class="svg svg-text" transform="matrix(1 0 0 1 659.748 585.2514)" fill="red" font-family="'MyriadPro-Regular'" font-size="15.9371">START</text>
 </svg>
 
 <br>
@@ -197,32 +200,28 @@ function Animal(sound) {
 }
 </pre>
     </div>
-    Every function has a <code id="ref-proto-prop" class="action">prototype property</code> pointing to a <code id="ref-animal-proto-obj" class="action">prototype object</code>.
-    <br>
-    <br>
-    When a function is executed with the <em>new</em> operator it becomes a constructor capable of creating new objects:
+    Every <em class="hover-animal-constr action">function</em> has a prototype property pointing to its <em class="hover-animal-proto action">prototype object</em>.
+    When the function is executed with the <em>new</em> operator it becomes a constructor capable of creating new objects:
     <br>
     <br>
 <pre>
 var monkey = new Animal("Banana. Now!");
 </pre>
-    Animal() creates a new object - monkey - binds <em>this</em> to the newly created object and executes itself.
-    <br>
-    <br>
-    Animal() then sets monkey's <code>__proto__</code> property to the object referenced by Amimal's <code>prototype</code> property thus making:
+    <em class="hover-animal-constr action">Animal</em> creates a new object named <em class="hover-monkey-inst action">monkey</em>, binds <em class="hover-monkey-inst action">this</em> to the newly created object, and executes <em class="hover-animal-constr action">itself</em>.
+    <em class="hover-animal-constr action">Animal</em> then sets <em class='hover-monkey-inst action'>monkey</em>'s __proto__ property to the <em class="hover-animal-proto action">object</em> referenced by <em class="hover-animal-constr action">Animal</em>'s prototype property thus making:
     <br>
     <br>
 <pre>
 Object.getPrototypeOf(monkey) === Animal.prototype; //true
 monkey instanceof Animal; //true
 </pre> 
-    The __proto__ property which references monkey's prototype is hidden, which is why it has to be accessed via <code>Object.getPrototype()</code>.
+    The __proto__ property which references monkey's <em class='hover-animal-proto action'>prototype</em> is hidden which is why it has to be accessed via <code>Object.getPrototype()</code>.
     <br>
     <br>
-    All objects inherit properties from their prototypes referenced by their __proto__ properties, so monkey now inherits from Animal.prototype.
+    All objects inherit properties from their prototypes referenced by their __proto__ properties, so <em class="hover-monkey-inst action">monkey</em> now inherits from <em class='hover-animal-proto action'>Animal.prototype</em>.
     <br>
     <br>
-    The constructor function Animal which sets up this prototype chain during object creation is analogous to an Animal class in classical inheritance.
+    The constructor function <em class="hover-animal-constr action">Animal</em> which sets up this prototype chain during object creation is analogous to an Animal class in classical inheritance.
 </script>
 
 
@@ -252,8 +251,6 @@ Object.getPrototypeOf(Animal.prototype) === Object.prototype; //true
 monkey.favoriteBooks; //undefined
 </pre>
     We can further extend the prototype chain by setting Human.prototype's __proto__ property to reference Animal.prototype. 
-    <br>
-    <br>
     This is analogous to subclassing an Animal class in classical inheritance.
 </script>
 
