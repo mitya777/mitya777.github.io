@@ -48,14 +48,14 @@ tags: [javascript svg]
 
 
 // Object prototype
-<circle filter="url(#dropShadow)" class="svg svg-proto svg-shape" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" cx="658.5" cy="42.3" r="41.8"/>
-<text class="svg svg-proto svg-text" transform="matrix(1 0 0 1 639.6846 38.1577)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13.5518">Object</tspan><tspan x="-11" y="16.3" font-family="'MyriadPro-Regular'" font-size="13.5518">.prototype</tspan></text>
+<circle filter="url(#dropShadow)" id="object_proto" class="svg svg-subclass svg-proto svg-shape" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" cx="658.5" cy="42.3" r="41.8"/>
+<text id="object_proto_label" class="svg svg-subclass svg-proto svg-text" transform="matrix(1 0 0 1 639.6846 38.1577)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13.5518">Object</tspan><tspan x="-11" y="16.3" font-family="'MyriadPro-Regular'" font-size="13.5518">.prototype</tspan></text>
 
-<line class="svg svg-proto svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="658.5" y1="397.7" x2="658.5" y2="105"/>
-<line class="svg svg-proto svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="522.6" y1="450" x2="543.5" y2="429.1"/>
-<line class="svg svg-proto svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="627.2" y1="429.1" x2="658.5" y2="397.7"/>
-<line class="svg svg-proto svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="543.5" y1="429.1" x2="627.2" y2="429.1"/>
-<polygon class="svg svg-proto svg-shape" fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="658.5,100.7 654.1,109.3 662.8,109.3 "/>
+<line class="svg svg-subclass svg-proto svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="658.5" y1="397.7" x2="658.5" y2="105"/>
+<line class="svg svg-subclass svg-proto svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="522.6" y1="450" x2="543.5" y2="429.1"/>
+<line class="svg svg-subclass svg-proto svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="627.2" y1="429.1" x2="658.5" y2="397.7"/>
+<line class="svg svg-subclass svg-proto svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="543.5" y1="429.1" x2="627.2" y2="429.1"/>
+<polygon class="svg svg-subclass svg-proto svg-shape" fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="658.5,100.7 654.1,109.3 662.8,109.3 "/>
 
 
 //Human prototype
@@ -75,9 +75,9 @@ tags: [javascript svg]
 <line class="svg svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="533.1" y1="648.6" x2="533.1" y2="565"/>
 <line class="svg svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="533.1" y1="648.6" x2="585.4" y2="700.8"/>
 <line class="svg svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="533.1" y1="565" x2="554" y2="544"/>
-<polygon class="svg svg-subclass svg-line" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="589,763.6 564.5,739 564.5,704.4 
+<polygon id="subclass_constr" class="svg svg-subclass svg-shape" fill="#D8E1E5" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" points="589,763.6 564.5,739 564.5,704.4 
 	589,679.9 623.6,679.9 648.1,704.4 648.1,739 623.6,763.6 "/>
-<text class="svg svg-subclass svg-line" transform="matrix(1 0 0 1 577.2217 725.799)" font-family="'MyriadPro-Regular'" font-size="13.9371">Empty() { }</text>
+<text id="subclass_contr_label" class="svg svg-subclass svg-line" transform="matrix(1 0 0 1 577.2217 725.799)" font-family="'MyriadPro-Regular'" font-size="13.9371">Empty() { }</text>
 
 
 // Human constr.
@@ -93,8 +93,8 @@ tags: [javascript svg]
 <line class="svg svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="292.7" y1="889" x2="324" y2="857.6"/>
 <line class="svg svg-subclass svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6" x1="209.1" y1="889" x2="188.2" y2="909.9"/>
 <polygon class="svg svg-subclass svg-line" fill="#0D0B0B" stroke="#000000" stroke-miterlimit="10" points="324,832.4 319.7,841 328.4,841 "/>
-<circle filter="url(#dropShadow)" id="budha" class="svg svg-subclass svg-shape" fill="#EFE8E7" stroke="#000000" stroke-miterlimit="10" cx="156.8" cy="941.3" r="41.8"/>
-<text class="svg svg-text svg-subclass" transform="matrix(1 0 0 1 134.3555 945.2324)" font-family="'MyriadPro-Regular'" font-size="13.5518">buddha</text>
+<circle filter="url(#dropShadow)" id="buddha_inst" class="svg svg-subclass svg-shape" fill="#EFE8E7" stroke="#000000" stroke-miterlimit="10" cx="156.8" cy="941.3" r="41.8"/>
+<text id="buddha_inst_label" class="svg svg-text svg-subclass" transform="matrix(1 0 0 1 134.3555 945.2324)" font-family="'MyriadPro-Regular'" font-size="13.5518">buddha</text>
 
 
 
@@ -154,7 +154,7 @@ tags: [javascript svg]
 
 <text class="svg svg-legend svg-text" transform="matrix(1 0 0 1 0 78.3154)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">__proto__</tspan></text>
 <line class="svg svg-legend svg-line" fill="none" stroke="#000000" stroke-miterlimit="10" x1="210.8" y1="110.2" x2="125.4" y2="110.2"/>
-<circle filter="url(#dropShadow)" class="svg svg-legend svg-shape" fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="215.4" cy="110.2" r="4.1"/>
+<circle class="svg svg-legend svg-shape" fill="#090405" stroke="#000000" stroke-miterlimit="10" cx="215.4" cy="110.2" r="4.1"/>
 <text class="svg svg-legend svg-text" transform="matrix(1 0 0 1 0 109.6733)"><tspan x="0" y="0" fill="#515251" font-family="'MyriadPro-Regular'" font-size="13.9371">this</tspan><tspan x="22.9" y="0" font-family="'MyriadPro-Regular'" font-size="13.9371">.</tspan><tspan x="26.2" y="0" font-family="'MyriadPro-Regular'" font-size="15.0985">prototype</tspan></text>
 <polygon filter="url(#dropShadow)" class="svg svg-legend svg-shape" fill="#DCEED9" stroke="#000000" stroke-miterlimit="10" points="124.7,201.5 115.5,192.3 115.5,179.3 124.7,170.1 
 	137.7,170.1 146.9,179.3 146.9,192.3 137.7,201.5 "/>
@@ -205,83 +205,89 @@ function Animal(sound) {
     this.multicellular = true;
     this.sound = sound;
 }
+Animal.prototype instanceof Object; //true
 </pre>
     </div>
     Every <em class="hover-animal-constr action">function</em> has a prototype property pointing to its <em class="hover-animal-proto action">prototype object</em>.
-    When the function is executed with the <em>new</em> operator it becomes a constructor capable of creating new objects:
+    <br>
+    <br>
+    When <em class="hover-animal-constr action">Animal</em> is executed with the <em>new</em> operator it becomes a constructor capable of creating new objects:
     <br>
     <br>
 <pre>
 var monkey = new Animal("Banana. Now!");
 </pre>
     <em class="hover-animal-constr action">Animal</em> creates a new object named <em class="hover-monkey-inst action">monkey</em>, binds <em class="hover-monkey-inst action">this</em> to the newly created object, and executes <em class="hover-animal-constr action">itself</em>.
-    <em class="hover-animal-constr action">Animal</em> then sets <em class='hover-monkey-inst action'>monkey</em>'s __proto__ property to the <em class="hover-animal-proto action">object</em> referenced by <em class="hover-animal-constr action">Animal</em>'s prototype property thus making:
+    <em class="hover-animal-constr action">Animal</em> then sets <em class='hover-monkey-inst action'>monkey</em>'s __proto__ property to <em class="hover-animal-proto action">Animal.prototype</em>:
     <br>
     <br>
 <pre>
 Object.getPrototypeOf(monkey) === Animal.prototype; //true
 monkey instanceof Animal; //true
 </pre> 
-    The __proto__ property which references monkey's <em class='hover-animal-proto action'>prototype</em> is hidden which is why it has to be accessed via <code>Object.getPrototype()</code>.
+    <em class='hover-animal-proto action'>monkey.__proto__</em> is a hidden property but can be accessed via <code>Object.getPrototype(monkey)</code>.
     <br>
     <br>
-    All objects inherit properties from their prototypes referenced by their __proto__ properties, so <em class="hover-monkey-inst action">monkey</em> now inherits from <em class='hover-animal-proto action'>Animal.prototype</em>.
-    <br>
-    <br>
-    The constructor function <em class="hover-animal-constr action">Animal</em> which sets up this prototype chain during object creation is analogous to an Animal class in classical inheritance.
+    All <em class="hover-monkey-inst action">objects</em> inherit properties from their <em class='hover-animal-proto action'>prototypes</em>.
 </script>
 
 
 <script type="text/template" id="animal_proto_template">
-    If <code>monkey</code> doesn't have some property... 
+    If <em class="hover-monkey-inst action">monkey</em> doesn't have some property, eg. favoriteBooks... 
     <br>
     <br>
 <pre>
 monkey.hasOwnProperty('favoriteBooks'); //false
 </pre>    
-    ...the javasacript engine checks whether the Animal.prototype object referenced by monkey's __proto__ property contains the property. 
+    ...the javasacript engine checks if <em class='hover-animal-proto action'>Animal.prototype</em> has a favoriteBooks property. 
     <br>
     <br>
-    When Animal() was defined, and the <code>Animal.prototype</code> object was created its __proto__ property was set to <code>Object.prototype</code> setting up the <code>Animal.prototype -> Object.prototype</code> chain.
+    If <code>Animal.prototype.favoriteBooks</code> is not found either the engine continues up the prototype chain via <code>Animal.prototype.__proto__</code> to check <em class='hover-object-proto action'>Object.prototype</em>.
     <br>
     <br>
 <pre>
 Object.getPrototypeOf(Animal.prototype) === Object.prototype; //true
 </pre>
-    If the property is not found on <code>Animal.prototype</code>, the engine continues up the prototype chain and checks <code>Object.prototype</code> for the property.
+    When <em class="hover-animal-constr action">Animal</em> was defined <em class='hover-animal-proto action'>Animal.prototype's</em> __proto__ property was pointed at <em class='hover-object-proto action'>Object.prototype</em> setting up the <code>Animal.prototype -> Object.prototype</code> chain.
     <br>
     <br>
-    If the property is not found on Object.prototype <code>undefined</code> is returned. 
+    If favoriteBooks is not found on <em class='hover-object-proto action'>Object.prototype</em> <code>undefined</code> is returned. 
     <br>
     <br>
 <pre>
 monkey.favoriteBooks; //undefined
 </pre>
-    We can further extend the prototype chain by setting Human.prototype's __proto__ property to reference Animal.prototype. 
-    This is analogous to subclassing an Animal class in classical inheritance.
+    We can further extend the prototype chain by setting <em class="hover-human-proto action">Human.prototype's</em> __proto__ property to reference <em class='hover-animal-proto action'>Animal.prototype</em>. 
 </script>
 
 <script type="text/template" id="human_proto_template">
-    When the Human() constructor is first created its prototype property points to a new object causing Human's prototype chain to look like:<br>
-    <code>Human.prototype -> Object.prototype.</code>
+    When the <em class="hover-human-constr action">Human constructor</em> is first created <em class="hover-human-proto action">Human.prototype</em> points to a new object giving the prototype chain:<br>
+    <code>Human.prototype (empty object) -> Object.prototype.</code>
     <br>
     <br>
-    Instead we want instances of Human() to also inherit properties from Animal.prototype:<br>
+    Instead we want <em class="hover-buddha-inst action">instances</em> of <em class="hover-human-constr action">Human</em> to also inherit from <em class='hover-animal-proto action'>Animal.prototype</em>:<br>
     <code>buddha -> Human.prototype -> Animal.protype -> Object.prototype.</code>
     <br>
     <br>
-    To achieve this we could set Human.prototype to point at monkey so that objects created by Human() would have __proto__ point at monkey:<br>
+    To achieve this we could set <em class="hover-human-proto action">Human.prototype</em> to <em class="hover-monkey-inst action">monkey</em> so that objects created by <em class="hover-human-constr action">Human</em> would have the following prototype chain:<br>
     <code>buddha -> (monkey === Human.prototype) -> Animal.prototype -> Object.prototype.</code>
     <br>
     <br>
-    This works but has the downside that monkey was instantiated with monkey-specific properties by the Animal() constructor...
+    This works but has the downside that <em class="hover-monkey-inst action">monkey</em> was instantiated with monkey-specific properties by the <em class="hover-animal-constr action">Animal constructor</em>...
+    <br>
+    <br>
 <pre>
 monkey.sound === "Banana. Now!"; //true
 </pre>
-    ...which we don't want every instance of Human to inherit.
+
+    ...which we don't want every <em class="hover-buddha-inst action">instance</em> of <em class="hover-human-constr action">Human</em> to inherit:
     <br>
     <br>
-    Instead we can introduce an empty constructor function to create an object with no properties but with __proto__ set to Animal.prototype.
+<pre>
+if (Object.getPrototype(buddha) === monkey)
+    buddha.sound === "Banana. Now!"; //don't want!
+</pre>
+    Instead we can introduce an <em class="hover-subclass-constr action">empty constructor function</em> to create an <em class="hover-human-proto action">object with no properties</em> but with __proto__ set to Animal.prototype.
     <br>
     <br>
 <pre>
@@ -289,5 +295,5 @@ function Empty() {}
 Empty.prototype = Animal.prototype;
 Human.prototype = new Empty();
 </pre>
-    This correctly sets up the prototype chain with instances of Human having a "clean" prototype object which inherits properties from Animal.prototype but doesn't inherit specific instance properties set by Animal().
+    This correctly sets up the prototype chain so <em class="hover-buddha-inst action">buddha</em> has a <em class="hover-human-proto action">"clean" prototype object</em> which inherits properties from <em class="hover-animal-proto action">Animal.prototype</em> but doesn't inherit specific instance properties set by <em class="hover-animal-constr action">Animal</em>.
 </script>

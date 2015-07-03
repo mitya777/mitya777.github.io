@@ -130,7 +130,12 @@
         var hovers = [
             'animal_constr',
             'animal_proto',
-            'monkey_inst'
+            'monkey_inst',
+            'object_proto',
+            'human_constr',
+            'human_proto',
+            'buddha_inst',
+            'subclass_constr'
         ]
         hovers.forEach(function(selector) {
             setupElementHover(selector);
