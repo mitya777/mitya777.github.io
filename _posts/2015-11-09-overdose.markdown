@@ -8,7 +8,7 @@ tags: []
 {% include JB/setup %}
 
 October 28, an angry crowd of Yale students confronts an administrator because he believes prohibiting Halloween costumes so as not to offend minority students is counter-productive.
-A student screams indignant questions at him and then screams "SHUT UP" when he attempts to answer them.
+A student screams indignant questions at him and then screams SHUT UP when he attempts to answer them.
 
 Yale is the latest example of the militant political correctness being exercised at many universities.
 Sometimes the light hurts your eyes, so students turn away to look at the Shadows.
@@ -24,4 +24,4 @@ It reminds me of the way conservatives miss that the structures they blithely wa
 The construction of a legal police state should be the primary worry of every conservative, but because it is being done to the Other they are hoodwinked.
 
 In both situations idealogues' fervor undermines the principles they claim to uphold.
-Wake up.
+WAKE UP.
