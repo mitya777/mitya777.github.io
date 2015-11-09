@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal/post
 title: "Overdose"
 description: ""
 category: "politics"
