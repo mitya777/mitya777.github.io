@@ -9,7 +9,7 @@ tags: []
 
 Libertarians are a lot like Communists.
 
-They advance theories about the world that fail in practice because they deny human nature.
+Both advance theories about the world that fail in practice because they deny human nature.
 
 Libertarians promote the opposite extreme: get out of each others' way as much as possible and let the Market take care of itself. Maximum freedom. Minimum government.
 
