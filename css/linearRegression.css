@@ -1,0 +1,29 @@
+.axis path,
+.axis line{
+  fill: none;
+  stroke: black;
+}
+
+path.line{
+  fill: none;
+  stroke: black;
+  stroke-width: 1px;
+}
+
+.tick text{
+  font-size: 12px;
+}
+
+.tick line{
+  opacity: 0.1;
+}
+
+.vis {
+    margin-bottom: 30px;
+}
+
+td.dragging:last-child {
+    color: blue;
+    font-size: 18px;
+    padding: 2px 10px;
+}

@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="interactive-javascript-ink.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="416.67619"
+     inkscape:cy="465.17868"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3835"
+     showgrid="false"
+     inkscape:window-width="1424"
+     inkscape:window-height="841"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <g
+     id="g3835"
+     transform="matrix(0.6311993,0,0,0.6311993,15.78072,183.45087)">
+    <circle
+       r="41.799999"
+       cy="481.29999"
+       cx="491.29999"
+       stroke-miterlimit="10"
+       class="svg svg-animal svg-monkey svg-proto svg-subclass svg-shape"
+       id="animal_proto"
+       style="fill:#efe8e7;stroke:#7a545f;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <text
+       transform="translate(471.2739,477.1768)"
+       class="svg svg-animal svg-monkey svg-proto svg-subclass svg-text"
+       id="animal_proto_label">
+      <tspan
+         id="tspan3621"
+         font-size="13.5518"
+         y="0"
+         x="0"
+         style="font-size:13.55179977px;font-family:MyriadPro-Regular">Animal</tspan>
+      <tspan
+         id="tspan3623"
+         font-size="13.5518"
+         y="16.299999"
+         x="-9.8000002"
+         style="font-size:13.55179977px;font-family:MyriadPro-Regular">.prototype</tspan>
+    </text>
+    <line
+       id="line3625"
+       y2="523.09998"
+       x2="533.09998"
+       y1="575.40002"
+       x1="585.40002"
+       stroke-miterlimit="10"
+       class="svg svg-animal svg-monkey svg-proto svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <polygon
+       points="564.5,613.7 564.5,579 589,554.5 623.6,554.5 648.1,579 648.1,613.7 623.6,638.2 589,638.2 "
+       stroke-miterlimit="10"
+       class="start-view svg svg-animal svg-monkey svg-proto svg-subclass svg-shape"
+       id="animal_constr"
+       style="fill:#d8e1e5;stroke:#000000;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <text
+       font-size="13.5518"
+       transform="translate(582.4629,600.3252)"
+       class="svg svg-animal svg-monkey svg-proto svg-subclass svg-text"
+       id="animal_constr_label"
+       style="font-size:13.55179977px;font-family:MyriadPro-Regular">Animal()</text>
+    <circle
+       id="circle3629"
+       r="4.0999999"
+       cy="523.09998"
+       cx="533.09998"
+       stroke-miterlimit="10"
+       class="svg svg-animal svg-monkey svg-proto svg-subclass svg-shape"
+       style="fill:#090405;stroke:#000000;stroke-miterlimit:10" />
+    <text
+       font-size="13.9371"
+       transform="translate(564.4531,533.5938)"
+       class="svg svg-animal svg-monkey svg-proto svg-subclass svg-text"
+       id="animal_prototype_label"
+       style="font-size:13.93710041px;font-family:MyriadPro-Regular;fill:#6d6e71">prototype</text>
+    <line
+       id="line3632"
+       y2="565"
+       x2="491.29999"
+       y1="596.29999"
+       x1="459.89999"
+       stroke-miterlimit="10"
+       class="svg svg-monkey svg-proto svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3634"
+       y2="596.29999"
+       x2="365.79999"
+       y1="617.20001"
+       x1="344.89999"
+       stroke-miterlimit="10"
+       class="svg svg-monkey svg-proto svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3636"
+       y2="596.29999"
+       x2="459.89999"
+       y1="596.29999"
+       x1="365.79999"
+       stroke-miterlimit="10"
+       class="svg svg-monkey svg-proto svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3638"
+       y2="544"
+       x2="491.29999"
+       y1="565"
+       x1="491.29999"
+       stroke-miterlimit="10"
+       class="svg svg-monkey svg-proto svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <polygon
+       id="polygon3640"
+       points="491.3,539.8 486.9,548.3 495.6,548.3 "
+       stroke-miterlimit="10"
+       class="svg svg-monkey svg-proto svg-subclass svg-line"
+       style="fill:#0d0b0b;stroke:#000000;stroke-miterlimit:10" />
+    <circle
+       r="41.799999"
+       cy="648.59998"
+       cx="324"
+       stroke-miterlimit="10"
+       class="svg svg-monkey svg-proto svg-subclass svg-shape"
+       id="monkey_inst"
+       style="fill:#efe8e7;stroke:#7a545f;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <text
+       font-size="13.5518"
+       transform="translate(301.1421,652.5527)"
+       class="svg svg-monkey svg-proto svg-subclass svg-text"
+       id="monkey_label"
+       style="font-size:13.55179977px;font-family:MyriadPro-Regular">monkey</text>
+    <text
+       id="text3644"
+       font-size="13.9371"
+       transform="translate(367.0688,617.2514)"
+       class="svg svg-monkey svg-proto svg-subclass svg-text"
+       style="font-size:13.93710041px;font-family:MyriadPro-Regular;fill:#6d6e71">__proto__</text>
+    <circle
+       r="41.799999"
+       cy="42.299999"
+       cx="658.5"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-proto svg-shape"
+       id="object_proto"
+       style="fill:#dceed9;stroke:#000000;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <text
+       transform="translate(639.6846,38.1577)"
+       class="svg svg-subclass svg-proto svg-text"
+       id="object_proto_label">
+      <tspan
+         id="tspan3648"
+         font-size="13.5518"
+         y="0"
+         x="0"
+         style="font-size:13.55179977px;font-family:MyriadPro-Regular">Object</tspan>
+      <tspan
+         id="tspan3650"
+         font-size="13.5518"
+         y="16.299999"
+         x="-11"
+         style="font-size:13.55179977px;font-family:MyriadPro-Regular">.prototype</tspan>
+    </text>
+    <line
+       id="line3652"
+       y2="105"
+       x2="658.5"
+       y1="397.70001"
+       x1="658.5"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-proto svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3654"
+       y2="429.10001"
+       x2="543.5"
+       y1="450"
+       x1="522.59998"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-proto svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3656"
+       y2="397.70001"
+       x2="658.5"
+       y1="429.10001"
+       x1="627.20001"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-proto svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3658"
+       y2="429.10001"
+       x2="627.20001"
+       y1="429.10001"
+       x1="543.5"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-proto svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <polygon
+       id="polygon3660"
+       points="658.5,100.7 654.1,109.3 662.8,109.3 "
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-proto svg-shape"
+       style="fill:#0d0b0b;stroke:#000000;stroke-miterlimit:10" />
+    <line
+       id="line3662"
+       y2="721.70001"
+       x2="365.79999"
+       y1="742.70001"
+       x1="344.89999"
+       stroke-miterlimit="10"
+       class="svg svg-proto svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3664"
+       y2="721.70001"
+       x2="459.89999"
+       y1="721.70001"
+       x1="365.79999"
+       stroke-miterlimit="10"
+       class="svg svg-proto svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3666"
+       y2="690.40002"
+       x2="491.29999"
+       y1="721.70001"
+       x1="459.89999"
+       stroke-miterlimit="10"
+       class="svg svg-proto svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3668"
+       y2="569"
+       x2="491.29999"
+       y1="690.40002"
+       x1="491.29999"
+       stroke-miterlimit="10"
+       class="svg svg-proto svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <text
+       id="text3670"
+       font-size="13.9371"
+       transform="translate(367.0688,742.6514)"
+       class="svg svg-proto svg-subclass svg-text"
+       style="font-size:13.93710041px;font-family:MyriadPro-Regular;fill:#6d6e71">__proto__</text>
+    <circle
+       r="41.799999"
+       cy="774"
+       cx="324"
+       stroke-miterlimit="10"
+       class="svg svg-proto svg-subclass svg-shape"
+       id="human_proto"
+       style="fill:#efe8e7;stroke:#7a545f;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <text
+       transform="translate(303.209,769.8555)"
+       class="svg svg-proto svg-subclass svg-text"
+       id="human_proto_label">
+      <tspan
+         id="tspan3674"
+         font-size="13.5518"
+         y="0"
+         x="0"
+         style="font-size:13.55179977px;font-family:MyriadPro-Regular">Human</tspan>
+      <tspan
+         id="tspan3676"
+         font-size="13.5518"
+         y="16.299999"
+         x="-9"
+         style="font-size:13.55179977px;font-family:MyriadPro-Regular">.prototype</tspan>
+    </text>
+    <path
+       d="m 480.8,889 334.5,0.1"
+       id="SVGID_x5F_1_x5F_"
+       class="svg svg-line"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+    <line
+       id="line3679"
+       y2="565"
+       x2="533.09998"
+       y1="648.59998"
+       x1="533.09998"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <line
+       id="line3681"
+       y2="700.79999"
+       x2="585.40002"
+       y1="648.59998"
+       x1="533.09998"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <line
+       id="line3683"
+       y2="544"
+       x2="554"
+       y1="565"
+       x1="533.09998"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <polygon
+       points="564.5,739 564.5,704.4 589,679.9 623.6,679.9 648.1,704.4 648.1,739 623.6,763.6 589,763.6 "
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-shape"
+       id="subclass_constr"
+       style="fill:#d8e1e5;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <text
+       font-size="13.9371"
+       transform="translate(577.2217,725.799)"
+       class="svg svg-subclass svg-line"
+       id="subclass_contr_label"
+       style="font-size:13.93710041px;font-family:MyriadPro-Regular">Empty() { }</text>
+    <line
+       id="line3687"
+       y2="868.20001"
+       x2="418.10001"
+       y1="815.79999"
+       x1="365.79999"
+       stroke-miterlimit="10"
+       class="svg svg-proto svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <circle
+       id="circle3689"
+       r="4.0999999"
+       cy="815.79999"
+       cx="365.79999"
+       stroke-miterlimit="10"
+       class="svg svg-proto svg-subclass svg-line"
+       style="fill:#090405;stroke:#000000;stroke-miterlimit:10" />
+    <polygon
+       points="399.1,906.4 399.1,871.7 423.6,847.2 458.3,847.2 482.8,871.7 482.8,906.4 458.3,930.9 423.6,930.9 "
+       stroke-miterlimit="10"
+       class="svg svg-proto svg-subclass svg-shape"
+       id="human_constr"
+       style="fill:#d8e1e5;stroke:#000000;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <text
+       id="text3692"
+       font-size="13.5518"
+       transform="translate(416.2822,893.0039)"
+       class="svg svg-proto svg-subclass svg-line"
+       style="font-size:13.55179977px;font-family:MyriadPro-Regular">Human()</text>
+    <line
+       id="line3694"
+       y2="889"
+       x2="292.70001"
+       y1="889"
+       x1="209.10001"
+       stroke-miterlimit="10"
+       class="svg svg-line svg-subclass"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3696"
+       y2="836.70001"
+       x2="324"
+       y1="857.59998"
+       x1="324"
+       stroke-miterlimit="10"
+       class="svg svg-line svg-subclass"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3698"
+       y2="857.59998"
+       x2="324"
+       y1="889"
+       x1="292.70001"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3700"
+       y2="909.90002"
+       x2="188.2"
+       y1="889"
+       x1="209.10001"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <polygon
+       id="polygon3702"
+       points="324,832.4 319.7,841 328.4,841 "
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-line"
+       style="fill:#0d0b0b;stroke:#000000;stroke-miterlimit:10" />
+    <circle
+       r="41.799999"
+       cy="941.29999"
+       cx="156.8"
+       stroke-miterlimit="10"
+       class="svg svg-subclass svg-shape"
+       id="buddha_inst"
+       style="fill:#efe8e7;stroke:#000000;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <text
+       font-size="13.5518"
+       transform="translate(134.3555,945.2324)"
+       class="svg svg-text svg-subclass"
+       id="buddha_inst_label"
+       style="font-size:13.55179977px;font-family:MyriadPro-Regular">buddha</text>
+    <line
+       id="line3706"
+       y2="429.10001"
+       x2="731.70001"
+       y1="460.39999"
+       x1="763.09998"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <line
+       id="line3708"
+       y2="355.89999"
+       x2="909.40002"
+       y1="679.90002"
+       x1="909.40002"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3710"
+       y2="460.39999"
+       x2="1066.2"
+       y1="335"
+       x1="951.20001"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <line
+       id="line3712"
+       y2="460.39999"
+       x2="1045.3"
+       y1="429.10001"
+       x1="1013.9"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <polygon
+       id="polygon3714"
+       points="1034.8,498.6 1034.8,464 1059.3,439.4 1094,439.4 1118.5,464 1118.5,498.6 1094,523.1 1059.3,523.1 "
+       stroke-miterlimit="10"
+       class="svg svg-shape"
+       style="fill:#dceed9;stroke:#000000;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <polygon
+       id="polygon3716"
+       points="742.1,498.6 742.1,464 766.6,439.4 801.3,439.4 825.8,464 825.8,498.6 801.3,523.1 766.6,523.1 "
+       stroke-miterlimit="10"
+       class="svg svg-shape"
+       style="fill:#dceed9;stroke:#000000;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <text
+       id="text3718"
+       font-size="13.5518"
+       transform="translate(761.1455,485.2715)"
+       class="svg svg-line"
+       style="font-size:13.55179977px;font-family:MyriadPro-Regular">Object()</text>
+    <polygon
+       id="polygon3720"
+       points="867.6,310.5 867.6,275.8 892.1,251.3 926.8,251.3 951.3,275.8 951.3,310.5 926.8,335 892.1,335 "
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:#dceed9;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <text
+       id="text3722"
+       transform="translate(884.2939,288.9893)"
+       class="svg svg-line">
+      <tspan
+         id="tspan3724"
+         font-size="13.5518"
+         y="0"
+         x="0"
+         style="font-size:13.55179977px;font-family:MyriadPro-Regular">Function</tspan>
+      <tspan
+         id="tspan3726"
+         font-size="13.5518"
+         y="16.299999"
+         x="-13.8"
+         style="font-size:13.55179977px;font-family:MyriadPro-Regular">.prototype(){ }</tspan>
+    </text>
+    <text
+       id="text3728"
+       font-size="13.5518"
+       transform="translate(1047.8398,485.2715)"
+       class="svg svg-line"
+       style="font-size:13.55179977px;font-family:MyriadPro-Regular">Function()</text>
+    <line
+       id="line3730"
+       y2="889"
+       x2="397.20001"
+       y1="889"
+       x1="397.20001"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <line
+       id="line3732"
+       y2="596.29999"
+       x2="648.09998"
+       y1="596.29999"
+       x1="867.59998"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3734"
+       y2="554.5"
+       x2="909.40002"
+       y1="596.29999"
+       x1="867.59998"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <text
+       id="text3736"
+       class="svg svg-line">
+      <textPath
+         id="textPath3738"
+         startOffset="0.072999997%"
+         xlink:href="#SVGID_x5F_1_x5F_"></textPath>
+    </text>
+    <line
+       id="line3740"
+       y2="700.79999"
+       x2="888.5"
+       y1="889"
+       x1="700.29999"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3742"
+       y2="429.10001"
+       x2="940.79999"
+       y1="429.10001"
+       x1="1013.9"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3744"
+       y2="397.70001"
+       x2="909.29999"
+       y1="429.10001"
+       x1="940.79999"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3746"
+       y2="240.89999"
+       x2="689.90002"
+       y1="240.89999"
+       x1="857.09998"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3748"
+       y2="209.60001"
+       x2="658.5"
+       y1="240.89999"
+       x1="689.90002"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3750"
+       y2="721.70001"
+       x2="648.09998"
+       y1="721.70001"
+       x1="867.40002"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3752"
+       y2="679.90002"
+       x2="909.29999"
+       y1="721.70001"
+       x1="867.59998"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3754"
+       y2="429.10001"
+       x2="836.20001"
+       y1="449.89999"
+       x1="815.29999"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3756"
+       y2="240.89999"
+       x2="857.09998"
+       y1="261.79999"
+       x1="878"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3758"
+       y2="115.5"
+       x2="731.70001"
+       y1="84.099998"
+       x1="700.29999"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <line
+       id="line3760"
+       y2="429.10001"
+       x2="731.70001"
+       y1="115.5"
+       x1="731.70001"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <line
+       id="line3762"
+       y2="429.10001"
+       x2="867.59998"
+       y1="429.10001"
+       x1="836.20001"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3764"
+       y2="397.70001"
+       x2="909.29999"
+       y1="429.10001"
+       x1="874.90002"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <line
+       id="line3766"
+       y2="774"
+       x2="376.29999"
+       y1="774"
+       x1="376.29999"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <circle
+       id="circle3768"
+       r="4.0999999"
+       cy="84.099998"
+       cx="700.29999"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:#090405;stroke:#000000;stroke-miterlimit:10" />
+    <circle
+       id="circle3770"
+       r="4.0999999"
+       cy="335"
+       cx="951.20001"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:#090405;stroke:#000000;stroke-miterlimit:10" />
+    <polygon
+       id="polygon3772"
+       points="909.4,351.6 905,360.2 913.8,360.2 "
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:#0d0b0b;stroke:#000000;stroke-miterlimit:10" />
+    <text
+       id="text3774"
+       transform="translate(0,78.3154)"
+       class="svg svg-legend svg-text">
+      <tspan
+         id="tspan3776"
+         font-size="13.9371"
+         y="0"
+         x="0"
+         style="font-size:13.93710041px;font-family:MyriadPro-Regular;fill:#515251">this</tspan>
+      <tspan
+         id="tspan3778"
+         font-size="13.9371"
+         y="0"
+         x="22.9"
+         style="font-size:13.93710041px;font-family:MyriadPro-Regular">.</tspan>
+      <tspan
+         id="tspan3780"
+         font-size="15.0985"
+         y="0"
+         x="26.200001"
+         style="font-size:15.09850025px;font-family:MyriadPro-Regular">__proto__</tspan>
+    </text>
+    <line
+       id="line3782"
+       y2="110.2"
+       x2="125.4"
+       y1="110.2"
+       x1="210.8"
+       stroke-miterlimit="10"
+       class="svg svg-legend svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <circle
+       id="circle3784"
+       r="4.0999999"
+       cy="110.2"
+       cx="215.39999"
+       stroke-miterlimit="10"
+       class="svg svg-legend svg-shape"
+       style="fill:#090405;stroke:#000000;stroke-miterlimit:10" />
+    <text
+       id="text3786"
+       transform="translate(0,109.6733)"
+       class="svg svg-legend svg-text">
+      <tspan
+         id="tspan3788"
+         font-size="13.9371"
+         y="0"
+         x="0"
+         style="font-size:13.93710041px;font-family:MyriadPro-Regular;fill:#515251">this</tspan>
+      <tspan
+         id="tspan3790"
+         font-size="13.9371"
+         y="0"
+         x="22.9"
+         style="font-size:13.93710041px;font-family:MyriadPro-Regular">.</tspan>
+      <tspan
+         id="tspan3792"
+         font-size="15.0985"
+         y="0"
+         x="26.200001"
+         style="font-size:15.09850025px;font-family:MyriadPro-Regular">prototype</tspan>
+    </text>
+    <polygon
+       id="polygon3794"
+       points="115.5,192.3 115.5,179.3 124.7,170.1 137.7,170.1 146.9,179.3 146.9,192.3 137.7,201.5 124.7,201.5 "
+       stroke-miterlimit="10"
+       class="svg svg-legend svg-shape"
+       style="fill:#dceed9;stroke:#000000;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <polygon
+       id="polygon3796"
+       points="115.5,299.1 115.5,286.1 124.7,276.8 137.7,276.8 146.9,286.1 146.9,299.1 137.7,308.3 124.7,308.3 "
+       stroke-miterlimit="10"
+       class="svg svg-legend svg-shape"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <circle
+       id="circle3798"
+       r="15.7"
+       cy="376.20001"
+       cx="130.7"
+       stroke-miterlimit="10"
+       class="svg svg-legend svg-shape"
+       style="fill:#dceed9;stroke:#000000;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <path
+       id="path3800"
+       d="m 133.9,78.9 0,-44.3 0,44.3 z"
+       stroke-miterlimit="10"
+       class="svg svg-legend svg-line"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <polygon
+       id="polygon3802"
+       points="133.9,26.1 129.5,34.6 138.2,34.6 "
+       stroke-miterlimit="10"
+       class="svg svg-legend svg-line"
+       style="fill:#0d0b0b;stroke:#000000;stroke-miterlimit:10" />
+    <text
+       id="text3804"
+       font-size="15.0985"
+       transform="translate(31.3584,245.561)"
+       class="svg svg-legend svg-text"
+       style="font-size:15.09850025px;font-family:MyriadPro-Regular">functions</text>
+    <text
+       id="text3806"
+       font-size="15.0985"
+       transform="translate(167.8247,190.9741)"
+       class="svg svg-legend svg-text"
+       style="font-size:15.09850025px;font-family:MyriadPro-Regular">initially available constructor</text>
+    <text
+       id="text3808"
+       font-size="15.0985"
+       transform="translate(167.2456,429.0664)"
+       class="svg svg-legend svg-text"
+       style="font-size:15.09850025px;font-family:MyriadPro-Regular">object</text>
+    <text
+       id="text3810"
+       font-size="15.0985"
+       transform="translate(167.2451,300.0752)"
+       class="svg svg-legend svg-text"
+       style="font-size:15.09850025px;font-family:MyriadPro-Regular">empty definition</text>
+    <polygon
+       id="polygon3812"
+       points="115,246.9 115,233.9 124.2,224.7 137.2,224.7 146.4,233.9 146.4,246.9 137.2,256.1 124.2,256.1 "
+       stroke-miterlimit="10"
+       class="svg svg-legend svg-shape"
+       style="fill:#d8e1e5;stroke:#000000;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <text
+       id="text3814"
+       font-size="15.0985"
+       transform="translate(167.2451,245.5615)"
+       class="svg svg-legend svg-text"
+       style="font-size:15.09850025px;font-family:MyriadPro-Regular">constructor</text>
+    <circle
+       id="circle3816"
+       r="15.7"
+       cy="423.79999"
+       cx="131.2"
+       stroke-miterlimit="10"
+       class="svg svg-legend svg-shape"
+       style="fill:#efe8e7;stroke:#7a545f;stroke-miterlimit:10;filter:url(#dropShadow)" />
+    <text
+       id="text3818"
+       font-size="15.0985"
+       transform="translate(167.2456,376.8022)"
+       class="svg svg-legend svg-text"
+       style="font-size:15.09850025px;font-family:MyriadPro-Regular">initially available object</text>
+    <line
+       id="line3820"
+       y2="889.09998"
+       x2="481"
+       y1="889"
+       x1="700.29999"
+       stroke-miterlimit="10"
+       class="svg svg-line"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6" />
+    <text
+       id="text3822"
+       font-size="13.9371"
+       transform="translate(659.748,742.5791)"
+       class="svg svg-text"
+       style="font-size:13.93710041px;font-family:MyriadPro-Regular;fill:#6d6e71">__proto__</text>
+    <text
+       id="text3824"
+       font-size="13.9371"
+       transform="translate(962.8799,449.9722)"
+       class="svg svg-text"
+       style="font-size:13.93710041px;font-family:MyriadPro-Regular;fill:#6d6e71">__proto__</text>
+    <text
+       id="text3826"
+       font-size="13.9371"
+       transform="translate(1034.8301,408.1602)"
+       class="svg svg-text"
+       style="font-size:13.93710041px;font-family:MyriadPro-Regular;fill:#6d6e71">prototype</text>
+    <text
+       font-size="15.9371"
+       transform="translate(659.748,585.2514)"
+       class="svg svg-text"
+       id="start_btn"
+       style="font-size:15.93710041px;font-family:MyriadPro-Regular;fill:#ff0000">START</text>
+  </g>
+  <metadata
+     id="metadata4105">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
