@@ -99,6 +99,7 @@ This is the annotation marker which when clicked on displays the Quests related 
             style: {
               position: 'absolute',
               width: '550px',   
+              height: '800px',
               margin: '0', 
               display: 'none',
               zIndex: '100000'
