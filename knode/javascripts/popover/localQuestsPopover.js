@@ -29,7 +29,7 @@
       this.setStyle({
         display: 'block'
       });
-      height = $(this.frame.contentWindow.document.body).find('.body').height();
+      height = $(this.frame.contentWindow.document.body).find('.container').height() + 20;
       top = Math.max(0, parseInt(rect.top, 10) - parseInt(height, 10) / 2);
       left = parseInt(window.innerWidth, 10) - parseInt(this.frame.style.width, 10);
       return this.position({

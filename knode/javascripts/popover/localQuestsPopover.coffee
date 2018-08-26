@@ -14,7 +14,7 @@ window.Knov.LocalQuestsPopover = class LocalQuestsPopover extends Knovigator.Fra
             display: 'block'
         })
 
-        height = $(@frame.contentWindow.document.body).find('.body').height()
+        height = $(@frame.contentWindow.document.body).find('.container').height() + 20
 
         top = Math.max(0, parseInt(rect.top, 10) - parseInt(height, 10)/2)
         left = parseInt(window.innerWidth, 10) - parseInt(@frame.style.width, 10)
