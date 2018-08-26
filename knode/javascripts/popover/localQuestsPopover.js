@@ -46,9 +46,10 @@
     };
 
     LocalQuestsPopover.prototype.position = function(coords) {
-      var left, top;
+      var height, left, top;
       top = coords.top;
       left = coords.left;
+      height = coords.height;
       return this.setStyle({
         top: top + 'px',
         left: left + 'px',
