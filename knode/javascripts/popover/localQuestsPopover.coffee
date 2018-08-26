@@ -21,7 +21,8 @@ window.Knov.LocalQuestsPopover = class LocalQuestsPopover extends Knovigator.Fra
 
         @position({
             top: top,
-            left: left
+            left: left,
+            height: height
         })
 
 
@@ -35,5 +36,6 @@ window.Knov.LocalQuestsPopover = class LocalQuestsPopover extends Knovigator.Fra
         left = coords.left
         @setStyle({
             top: top + 'px',
-            left: left + 'px'
+            left: left + 'px',
+            height: height + 'px'
         })
